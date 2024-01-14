@@ -381,16 +381,6 @@ intellectuals <TAB> [have] <TAB> [a] moral responsibility to tell the truth abou
 
 #38: He argues that , as such an intellectual , it is his duty to use his social privilege , resources , and training to aid popular democracy movements in their struggles .
 
-He/Chomsky <TAB> argues that <TAB> it is his/(Chomsky's) duty to use his/(Chomsky's) social privilege  , resources , and training to aid popular democracy movements in their/(popular democracy's) struggles
-
-
-
-
-
-
-popular democracy movements <TAB> [have] <TAB> struggles
-
-My tupples for this sentence:
 He/Chomsky <TAB> argues that <TAB> it is his/(Chomsky's) duty to use his/(Chomsky's) social privilege , resources , and training to aid popular democracy movements in their struggles
 He/Chomsky <TAB> [is] <TAB> an intellectual
 His/(Chomsky's) duty <TAB> is <TAB> to use his/(Chomsky's) social privilege <TAB> to aid popular democracy movements <TAB> in their/(popular democracy movements') struggles [✔ attributive/speculative]
