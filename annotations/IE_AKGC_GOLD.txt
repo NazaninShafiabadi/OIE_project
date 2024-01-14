@@ -1,0 +1,423 @@
+#1: Avram Noam Chomsky ( born December 7 , 1928 ) is an American professor and public intellectual known for his work in linguistics , political activism , and social criticism .
+
+Chomsky <TAB> [refers to] <TAB> Avram Noam Chomsky
+Chomsky <TAB>  [was] born [on]  <TAB> December 7 , 1928
+Chomsky <TAB> is <TAB> [a] professor
+Chomsky <TAB> is <TAB> American
+Chomsky <TAB> is <TAB> [a] public intellectual
+Chomsky <TAB> is known for <TAB> /(Chomsky’s) work in linguistics
+Chomsky <TAB> [has done] work in <TAB> linguistics
+Chomsky <TAB> is known for <TAB> his/(Chomsky’s)  work in political activism
+Chomsky <TAB>[has done] work in <TAB> political activism
+Chomsky <TAB> is known for <TAB> his/(Chomsky’s)  work in social criticism
+Chomsky <TAB> [has done] work in <TAB> social criticism
+
+#2: Sometimes called " the father of modern linguistics " , Chomsky is also a major figure in analytic philosophy and one of the founders of the field of cognitive science .
+
+Chomsky <TAB> [is]  called <TAB> " the father of modern linguistics " 
+Chomsky <TAB> [is]   <TAB> the father of modern linguistics [attributed] 
+Chomsky <TAB> is a major figure in <TAB> analytic philosophy
+Chomsky <TAB> is one of the founders of <TAB> the field of cognitive science 
+
+
+#3: He is a laureate professor of linguistics at the University of Arizona and an institute professor emeritus at the Massachusetts Institute of Technology ( MIT ) .
+
+He/Chomsky <TAB>  is <TAB> a laureate professor of linguistics <TAB> at the University of Arizona 
+He/Chomsky <TAB>  is <TAB> a professor
+He/Chomsky <TAB>  is <TAB> an institute professor emeritus <TAB> at the Massachusetts Institute of Technology ( MIT )
+MIT <TAB> [stands for] <TAB> the Massachusetts Institute of Technology
+
+#4: Among the most cited living authors , Chomsky has written more than 150 books on topics such as linguistics , war , and politics .
+
+Chomsky <TAB> [is] among <TAB> the most cited living authors
+Chomsky <TAB> [is] <TAB> [an author]
+Chomsky <TAB> [is] <TAB> [alive]
+Chomsky <TAB> has written <TAB> more than 150 books <TAB> on topics such as linguistics , war , and politics
+Chomsky <TAB> has written <TAB> books
+Chomsky <TAB> has written <TAB> books <TAB> on linguistics
+Chomsky <TAB> has written <TAB> books <TAB> on war
+Chomsky <TAB> has written <TAB> books <TAB> on politics
+
+
+#5: Ideologically , he aligns with anarcho- syndicalism and libertarian socialism .
+
+he/Chomsky <TAB> ideologically aligns with <TAB> anarcho- syndicalism
+he/Chomsky <TAB> ideologically aligns with <TAB> libertarian socialism 
+
+#6: Born to Ashkenazi Jewish immigrants in Philadelphia , Chomsky developed an early interest in anarchism from alternative bookstores in New York City .
+
+Chomsky <TAB> [was] born to <TAB> Ashkenazi Jewish immigrants <TAB> in Philadelphia
+Chomsky <TAB> [was] born to <TAB> immigrants 
+Chomsky <TAB> [was] born to <TAB> Ashkenazi [Jews]
+Chomsky <TAB> [was] born in <TAB> Philadelphia
+Chomsky <TAB> developed an early interest in <TAB>  anarchism <TAB> from alternative bookstores <TAB> in New York City
+
+
+Chomsky <TAB> [was interested] in <TAB>  anarchism 
+
+#7: He studied at the University of Pennsylvania
+
+He/Chomsky <TAB> studied at <TAB> the University of Pennsylvania .
+He/Chomsky <TAB> [went to] <TAB> university
+
+#8: During his postgraduate work in the Harvard Society of Fellows , Chomsky developed the theory of transformational grammar for which he earned his doctorate in 1955 .
+
+Chomsky <TAB> [did] <TAB> postgraduate work <TAB> in the Harvard Society of Fellows
+
+Chomsky <TAB> developed <TAB> the theory of transformational grammar <TAB> for which he/Chomsky earned his/(Chomsky's) doctorate in 1955
+Chomsky <TAB> developed <TAB> the theory of transformational grammar <TAB> during his/(Chomsky's) postgraduate work <TAB> in the Harvard Society of Fellows
+Chomsky <TAB> developed <TAB> [a] theory
+transformational grammar <TAB> [is] <TAB> [a] theory
+He/Chomsky <TAB> earned <TAB> his/(Chomsky's) doctorate <TAB> in 1955
+Chomsky <TAB> [has] <TAB> [a] doctorate
+His/(Chomsky's) doctorate <TAB> [was] for <TAB> the theory of transformational grammar
+
+#9: That year he began teaching at MIT , and in 1957 emerged as a significant figure in linguistics with his landmark work Syntactic Structures , which played a major role in remodeling the study of language .
+
+he/Chomsky <TAB>  began teaching at <TAB> MIT <TAB> (that year)/(in 1955)
+he/Chomsky <TAB>  [has taught] at <TAB> MIT
+he/Chomsky <TAB>  emerged as a significant figure in <TAB>linguistics <TAB> with his/(Chomsky's) landmark work Syntactic Structures <TAB> in 1957
+he/Chomsky <TAB>  [is]  a figure in <TAB> linguistics 
+he/Chomsky <TAB> [wrote] <TAB>  Syntactic Structures
+Syntactic Structures <TAB> [is] <TAB> [a] landmark 
+Syntactic Structures <TAB> played a major role in <TAB> remodeling the study of language
+
+#10: From 1958 to 1959 Chomsky was a National Science Foundation fellow at the Institute for Advanced Study .
+
+Chomsky <TAB> was <TAB> a National Science Foundation fellow <TAB> at the Institute for Advanced Study <TAB> from 1958 to 1959 
+Chomsky <TAB> was <TAB> a fellow 
+
+#11:  He created or co-created the universal grammar theory , the generative grammar theory , the Chomsky hierarchy , and the minimalist program .
+
+He/Chomsky <TAB> created or co-created <TAB> the universal grammar theory
+He/Chomsky <TAB> created or co-created <TAB> [a] grammar theory
+He/Chomsky <TAB> created or co-created <TAB> the generative grammar theory
+He/Chomsky <TAB> created or co-created <TAB> the Chomsky hierarchy
+He/Chomsky <TAB> created or co-created <TAB> the minimalist program
+
+#12: Chomsky also played a pivotal role in the decline of linguistic behaviorism , and was particularly critical of the work of B. F. Skinner .
+
+Chomsky <TAB> played a pivotal role in <TAB> the decline of linguistic behaviorism
+Chomsky <TAB> played a role in <TAB> the decline of linguistic behaviorism
+linguistic behaviorism <TAB> [has declined]
+Chomsky <TAB> was critical of  <TAB> the work of B. F. Skinner
+
+# 13 : An outspoken opponent of U.S. involvement in the Vietnam War , which he saw as an act of American imperialism , in 1967 Chomsky rose to national attention for his anti-war essay " The Responsibility of Intellectuals " .
+
+Chomsky <TAB> [was] an outspoken opponent of <TAB> U.S. involvement in the Vietnam War
+Chomsky <TAB> [was] an opponent of <TAB> U.S. involvement in the Vietnam War
+Chomsky <TAB>[opposed] <TAB> U.S. involvement in the Vietnam War
+U.S <TAB> [was involved] in <TAB> the Vietnam War
+Chomsky <TAB> saw <TAB> U.S. involvement in the Vietnam War <TAB> as an act of American imperialism 
+U.S. involvement in the Vietnam War <TAB> [is] <TAB> an act of American imperialism [attributed]
+Chomsky <TAB> rose to national attention <TAB> for his/(Chomsky’s) anti-war essay " The Responsibility of Intellectuals " <TAB>  in 1967
+Chomsky <TAB> [wrote]  <TAB> " The Responsibility of Intellectuals "
+Chomsky <TAB> [wrote]  <TAB>  [an] anti-war essay
+" The Responsibility of Intellectuals " <TAB> [is] <TAB> [an] anti-war essay
+
+# 14: Becoming associated with the New Left , he was arrested multiple times for his activism and placed on President Richard Nixon 's list of political opponents .
+
+He/Chomsky <TAB> associated with  <TAB> the New Left
+He/Chomsky <TAB> was arrested <TAB>  multiple times <TAB> for his/(Chomsky's) activism
+He/Chomsky <TAB> [engaged in] <TAB> activism
+He/Chomsky <TAB> was placed on <TAB> President Richard Nixon 's list of political opponents
+Richard Nixon <TAB> [was] <TAB> [a]  President
+Richard Nixon <TAB> [had] <TAB>  [a] list of political opponents
+He/Chomsky <TAB> [was] <TAB> Richard's Nixon's political opponent [attributed]
+He/Chomsky <TAB> [was] <TAB> [a] political opponent
+
+#15: While expanding his work in linguistics over subsequent decades , he also became involved in the linguistics wars .
+
+He/Chomsky <TAB> [expanded] <TAB> his/(Chomsky's) work in linguistics <TAB> over (subsequent decades)/(the decades subsequent to 1967)
+He/Chomsky <TAB> [worked] in <TAB> linguistics
+He/Chomsky <TAB> became involved in <TAB> the linguistics wars
+linguistics wars <TAB> [happened]  <TAB> over (subsequent decades)/(the decades subsequent to 1967)
+
+
+
+
+
+
+
+
+#16: In collaboration with Edward S. Herman , Chomsky later articulated the propaganda model of media criticism in Manufacturing Consent , and worked to expose the Indonesian occupation of East Timor .
+
+Chomsky <TAB> articulated  <TAB>  the propaganda model of media criticism in Manufacturing Consent <TAB> in collaboration with Edward S. Herman 
+Chomsky <TAB> [collaborated] with <TAB>  Edward S. Herman
+Edward S. Herman  <TAB> articulated  <TAB>  the propaganda model of media criticism in Manufacturing Consent
+Chomsky <TAB>  articulated  <TAB> [a] propaganda model
+Chomsky <TAB> worked to expose <TAB> the Indonesian occupation of East Timor
+Chomsky <TAB> [exposed] <TAB> the Indonesian occupation of East Timor  [speculated]
+[Indonesia] <TAB> [occupied] <TAB> East Timor [speculated]
+
+#17: His defense of unconditional freedom of speech , including that of Holocaust denial , generated significant controversy in the Faurisson affair of the 1980s .
+
+His/(Chomsky's) defense of unconditional freedom of speech <TAB> generated <TAB> significant controversy <TAB> in the Faurisson affair of the 1980s
+the Faurisson affair <TAB> [happened in] <TAB> the 1980s
+[Chomsky] <TAB> [defended] <TAB> unconditional freedom of speech
+[Chomsky] <TAB> [defended]  <TAB> Holocaust denial 
+
+#18: Chomsky 's commentary on the Cambodian genocide also generated controversy .
+
+[Chomsky] <TAB> [commented] on  <TAB> the Cambodian genocide 
+Chomsky 's commentary on the Cambodian genocide <TAB> generated <TAB>  controversy
+Cambodian genocide  <TAB>  [happened]
+
+#19: Since retiring from active teaching at MIT , he has continued his vocal political activism , including opposing the 2003 invasion of Iraq and supporting the Occupy movement .
+
+He/Chomsky <TAB> [retired] from <TAB> active teaching at MIT
+He/Chomsky <TAB> has continued <TAB> his/(Chomky's) vocal political activism <TAB> since retiring from active teaching at MIT
+He/Chomsky <TAB> [engaged in] <TAB> political activism
+He/Chomsky <TAB> [opposed] <TAB> the 2003 invasion of Iraq
+invasion of Iraq <TAB> [happened in] <TAB>  2003
+He/Chomsky <TAB> [supported] <TAB> the Occupy movement
+Occupy <TAB> [is] <TAB> [a] movement
+
+#20: Chomsky began teaching at the University of Arizona in 2017 .
+
+Chomsky <TAB> began teaching at <TAB> the University of Arizona <TAB> in 2007
+Chomsky <TAB> [taught] at <TAB> the University of Arizona 
+
+
+
+#21: Chomsky is widely recognized as having helped to spark the cognitive revolution in the human sciences , contributing to the development of a new cognitivistic framework for the study of language and the mind .
+
+Chomsky <TAB> is widely recognized as <TAB> having helped to spark the cognitive revolution in the human sciences
+Chomsky <TAB> helped to spark<TAB>  the cognitive revolution in the human sciences [✔ attributive/speculative]
+the cognitive revolution <TAB> [happened] in <TAB> the human sciences
+Chomsky <TAB> is widely recognized as <TAB> contributing to the development of a new cognitivistic framework for the study of language
+Chomsky <TAB> is widely recognized as <TAB> contributing to the development of a new cognitivistic framework for the study of the mind
+Chomsky <TAB> [contributed] to <TAB> the development of a new cognitivistic framework <TAB> for the study of language 
+Chomsky <TAB> [contributed] to <TAB> the development of a new cognitivistic framework <TAB> for the study of the mind
+
+#22: Chomsky remains a leading critic of U.S. foreign policy , contemporary capitalism , U.S. involvement and Israel 's role in the Israeliâ€“ Palestinian conflict , and mass media .
+
+Chomsky <TAB> remains a leading critic of <TAB> U.S. foreign policy 
+Chomsky <TAB> [is] a leading critic of <TAB> U.S. foreign policy 
+Chomsky <TAB> [criticizes] <TAB> U.S. foreign policy 
+Chomsky <TAB> remains a leading critic of <TAB> contemporary capitalism
+Chomsky <TAB> [is] a leading critic of <TAB> contemporary capitalism
+Chomsky <TAB> [criticizes] <TAB> contemporary capitalism
+Chomsky <TAB> remains a leading critic of<TAB> Israel 's role in the Israeliâ€“ Palestinian conflict
+Chomsky <TAB> [is] a leading critic of <TAB> Israel 's role in the Israeliâ€“ Palestinian conflict
+Chomsky <TAB> [criticizes] <TAB> Israel 's role in the Israeliâ€“ Palestinian conflict
+Chomsky <TAB> remains a leading critic of<TAB> U.S. involvement in the Israeliâ€“ Palestinian conflict
+Chomsky <TAB> [is] a leading critic of <TAB> U.S. involvement in the Israeliâ€“ Palestinian conflict
+Chomsky <TAB> [criticizes] <TAB> U.S. involvement in the Israeliâ€“ Palestinian conflict
+Chomsky <TAB> remains a leading critic of <TAB> mass media
+Chomsky <TAB> [is] a leading critic of <TAB> mass media
+Chomsky <TAB> [criticizes] <TAB> mass media
+[The] U.S. <TAB> [was involved] in <TAB> the Israeliâ€“ Palestinian conflict
+Israel <TAB> [has a] role in <TAB> the Israeliâ€“ Palestinian conflict
+
+#23: Chomsky and his ideas are highly influential in the anti-capitalist and anti-imperialist movements .
+
+Chomsky <TAB> [is] highly influential in <TAB> the anti-capitalist [movement]
+Chomsky <TAB> [is] highly influential in <TAB> the anti-imperialist [movement]
+His/(Chomsky's) ideas <TAB> are highly influential in <TAB> the anti-capitalist [movement]
+His/(Chomsky's) ideas <TAB> are highly influential in <TAB> the anti-imperialist [movement]
+Chomsky <TAB>[influences] <TAB> the anti-capitalist [movement]
+Chomsky <TAB> [influences] <TAB> the anti-imperialist [movement]
+His/(Chomsky's) ideas <TAB> [influence] <TAB> the anti-capitalist [movement]
+His/(Chomsky's) ideas <TAB> [influence] <TAB> the anti-imperialist [movement]
+the anti-capitalist  movement <TAB> exists
+the anti-imperialist movement <TAB> exists
+Chomsky <TAB> [has] <TAB> ideas
+
+#24: The basis of Chomsky 's linguistic theory lies in biolinguistics , the linguistic school that holds that the principles underpinning the structure of language are biologically preset in the human mind and hence genetically inherited .
+
+The basis of Chomsky 's linguistic theory <TAB> lies in <TAB> biolinguistics
+Chomsky <TAB> [has] <TAB> [a] linguistic theory
+biolinguistics <TAB> [is] <TAB> [a] linguistic school
+biolinguistics <TAB> holds that <TAB> the principles underpinning the structure of language are biologically preset in the human mind and hence genetically inherited
+the principles underpinning the structure of language <TAB> are <TAB> biologically preset in the human mind [attributed]
+the principles underpinning the structure of language <TAB> are <TAB> genetically inherited [attributed]
+
+#25: He argues that all humans share the same underlying linguistic structure , irrespective of sociocultural differences .
+
+He/Chomsky <TAB> argues that <TAB> all humans share the same underlying linguistic structure irrespective of sociocultural differences 
+All humans <TAB> share <TAB> the same underlying linguistic structure <TAB> irrespective of sociocultural differences [attributed]
+
+#26:In adopting this position Chomsky rejects the radical behaviorist psychology of B. F. Skinner , who viewed speech , thought , and all behavior as a completely learned product of the interactions between organisms and their environments .
+
+Chomsky <TAB> [adopts] <TAB> (this position)/(the position that all humans share the same underlying linguistic structure irrespective of sociocultural differences)
+Chomsky <TAB> rejects <TAB> the radical behaviorist psychology of B. F. Skinner
+B. F. Skinner <TAB> [has] <TAB> [a] radical behaviorist psychology
+the behaviorist psychology of B. F. Skinner <TAB> [is] <TAB> radical 
+B. F. Skinner <TAB> viewed <TAB> speech <TAB> as a completely learned product of the interactions between organisms and their environments .
+speech <TAB> [is] <TAB> completely learned product of the interactions between organisms and their environments [attributed]
+B. F. Skinner <TAB> viewed <TAB> thought <TAB> as a completely learned product of the interactions between organisms and their environments .
+thought <TAB> [is] <TAB> completely learned product of the interactions between organisms and their environments [attributed]
+B. F. Skinner <TAB> viewed <TAB> all behavior <TAB> as a completely learned product of the interactions between organisms and their environments .
+all behaviour <TAB> [is] <TAB> completely learned product of the interactions between organisms and their environments [attributed]
+ organisms <TAB> [interact with] <TAB> their environments
+
+#27: Accordingly , Chomsky argues that language is a unique evolutionary development of the human species and distinguished from modes of communication used by any other animal species .
+
+Chomsky <TAB> argues <TAB> that language is a unique evolutionary development of the human species 
+language <TAB> is <TAB> a unique evolutionary development of the human species [attributed]
+the human species <TAB> [has] <TAB> a unique evolutionary development [attributed]
+Chomsky <TAB> argues <TAB> that language is distinguished from modes of communication used by any other animal species
+language <TAB> is distinguished from <TAB> modes of communication used by any other animal species [attributed]
+Animal species <TAB> [use] <TAB> distinguished modes of communication [✔ attributive/speculative]
+
+
+#28: Chomsky argues that his nativist , internalist view of language is consistent with the philosophical school of " rationalism " and contrasts with the anti-nativist , externalist view of language consistent with the philosophical school of " empiricism " , which contends that all knowledge , including language , comes from external stimuli .
+
+Chomsky <TAB> argues that <TAB> his/(Chomsky's) nativist , internalist view of language is consistent with the philosophical school of " rationalism " and contrasts with the anti-nativist , externalist view of language consistent with the philosophical school of " empiricism " , which contends that all knowledge , including language , comes from external stimuli
+
+his(Chomsky's) view of language <TAB>  is consistent with <TAB> the philosophical school of " rationalism " [attributed] 
+His/(Chomsky's) view of language <TAB> [is] <TAB> nativist	
+His/(Chomsky's) view of language <TAB> [is] <TAB> internalist
+rationalism <TAB> [is] <TAB> [a] philosophical school 
+Chomsky <TAB> [has] <TAB> [an] internalist view of language 
+Chomsky <TAB> [has] <TAB> [a] nativist view of language 
+Chomsky <TAB> argues <TAB> that his(Chomsky's) nativist , internalist view of language <TAB> contrasts with <TAB> the anti-nativist , externalist view of language consistent with the philosophical school of " empiricism "
+his(Chomsky's) view of language <TAB> contrasts with <TAB> the view of language consistent with the philosophical school of " empiricism " [attributed]
+his(Chomsky's) view of language <TAB> contrasts with <TAB> the view of language consistent with the philosophical school of " empiricism " [attributed]
+The view of language consistent with the philosophical school of " empiricism "<TAB> [is] 	<TAB> anti-nativist
+The view of language consistent with the philosophical school of " empiricism "<TAB> [is]	 <TAB> externalist
+empiricism <TAB> [is] <TAB> [a] philosophical school 
+empiricism [has] <TAB> [an] externalist view of language
+empiricism [has] <TAB> [an] anti-nativist view of language
+empiricism <TAB> contends that <TAB> all knowledge , including language , comes from external stimuli
+all knowledge <TAB> comes from <TAB> external stimuli [attributed]
+the philosophical school of " empiricism " <TAB> contends <TAB> that language comes from external stimuli
+language <TAB> comes from <TAB> external stimuli [attributed]
+
+#29: Historians have disputed Chomsky 's claim about rationalism on the basis that his theory of innate grammar excludes propositional knowledge and instead focuses on innate learning capacities or structures .
+
+Historians <TAB> have disputed <TAB> Chomsky 's claim about rationalism <TAB> on the basis that his/(Chomsky's) theory of innate grammar excludes propositional knowledge and instead focuses on innate learning capacities or structures 
+Historians <TAB> have disputed <TAB> Chomsky 's claim about rationalism
+Chomsky <TAB> [has] a claim about <TAB> rationalism
+his/(Chomsky's) theory of innate grammar <TAB> excludes <TAB> propositional knowledge [attributed]
+Chomsky <TAB> [has] <TAB> [a] theory of innate grammar
+His/(Chomsky's) theory of innate grammar <TAB> focuses on <TAB> innate learning capacities [✔ attributive/speculative]
+
+#30: Chomsky is a prominent political dissident .
+
+Chomsky <TAB> is  <TAB> a prominent political dissident
+Chomsky <TAB> is  <TAB> a political dissident
+Chomsky <TAB> is  <TAB> a prominent dissident
+
+#31: His political views have changed little since his childhood , when he was influenced by the emphasis on political activism that was ingrained in Jewish working - class tradition .
+
+His/(Chomsky's) political views <TAB> have changed little <TAB> since his/(Chomsky’s) childhood 
+[Chomsky] <TAB> [has]  <TAB> political views
+he/Chomsky <TAB> was influenced by <TAB> the emphasis on political activism that was ingrained in Jewish working - class tradition <TAB> [in] his/(Chomsky’s) childhood 
+The emphasis on political activism that was ingrained in Jewish working - class tradition <TAB> influenced <TAB> [Chomsky] <TAB> [in] his/(Chomsky's) childhood
+[An] emphasis on political activism <TAB> was ingrained in <TAB> Jewish working - class tradition 
+Jewish working - class <TAB> [has] <TAB> tradition 
+
+#32: He usually identifies as an anarcho - syndicalist or a libertarian socialist .
+
+He/Chomsky <TAB> identifies as <TAB> an anarcho - syndicalist
+He/Chomsky <TAB> identifies as <TAB> a libertarian socialist
+
+#33: He views these positions not as precise political theories but as ideals that he thinks best meet human needs : liberty , community , and freedom of association .
+
+He/Chomsky <TAB> [does not view]  <TAB> (these positions)/(anarcho - syndicalism and libertarian socialism) <TAB> as precise political theories
+He/Chomsky <TAB> views  <TAB> (these positions)/(anarcho - syndicalism and libertarian socialism) <TAB> as ideals that best meet human needs
+(these positions)/(anarcho - syndicalism and libertarian socialism) <TAB> [are] not <TAB>  precise political theories [attributed]
+(these positions)/(anarcho - syndicalism and libertarian socialism) <TAB> [are] <TAB>  ideals that best meet human needs [attributed]
+(these positions)/(anarcho - syndicalism and libertarian socialism) <TAB> best meet <TAB> human needs [attributed]
+liberty <TAB> [is] <TAB> [an ideal that]  best meet human needs
+community <TAB> [is] <TAB> [an ideal that]  best meet human needs
+Freedom of association <TAB> [is] <TAB> [an ideal that]  best meet human needs
+humans <TAB> [have] <TAB> needs
+
+#34: Unlike some other socialists , such as Marxists , Chomsky believes that politics lies outside the remit of science , but he still roots his ideas about an ideal society in empirical data and empirically justified theories .
+
+Chomsky <TAB> [is] <TAB> [a socialist]
+Marxists <TAB> [are] <TAB> socialists
+some other socialists <TAB> [do not] believe <TAB> that politics lies outside the remit of science
+Marxists <TAB> [do not believe] that <TAB> politics lies outside the remit of science
+Chomsky <TAB> believes that <TAB> politics lies outside the remit of science
+politics <TAB> lies outside  <TAB> the remit of science [attributed]
+he/Chomsky <TAB> roots <TAB> his/(Chomsky's  critical thinking  [attributed]
+ critical thinking  <TAB> can [break] <TAB> this web of  ideas about an ideal society <TAB> in empirical data 
+he/Chomsky <TAB> roots <TAB> his/(Chomsky's) ideas about an ideal society <TAB> in empirically justified theories
+he/Chomsky <TAB> [has] ideas about <TAB> ideas about an ideal society
+
+
+#35: In Chomsky 's view , the truth about political realities is systematically distorted or suppressed by an elite corporatocracy , which uses corporate media , advertising , and think tanks to promote its own propaganda .
+
+the truth about political realities <TAB> is <TAB> systematically distorted [attributed]
+the truth about political realities <TAB> is  suppressed by <TAB> an elite corporatocracy  [attributed]
+The truth about political realities <TAB> is <TAB> systematically distorted or suppressed <TAB> by an elite corporatocracy										an elite corporatocracy <TAB> systematically [distorts] or [suppresses] <TAB> the truth about political realities [attributed]
+an elite corporatocracy <TAB> uses <TAB> corporate media <TAB> to promote its(the elite corporatocracy's) own propaganda [attributed]
+an elite corporatocracy <TAB> uses <TAB> advertising <TAB> to promote its(the elite corporatocracy's) own propaganda [attributed]
+an elite corporatocracy <TAB> uses <TAB> think tanks <TAB> to promote its(the elite corporatocracy's) own propaganda [attributed]
+an elite corporatocracy <TAB> [promotes] <TAB> its(the elite corporatocracy's) own propaganda [attributed]
+an elite corporatocracy <TAB> [has] <TAB> its(the elite corporatocracy's) own propaganda [attributed]
+
+#36: His work seeks to reveal such manipulations and the truth they obscure .
+
+His(Chomsky's) work <TAB> seeks to reveal <TAB> (such manipulations)/(the systematic distortion or suppression of the truth about political realities) 
+His(Chomsky's) work <TAB> seeks to reveal <TAB> the truth they/(such manipulations) obscure
+His(Chomsky's) work <TAB> reveal <TAB> such(such as the aforementionned) manipulations 
+His(Chomsky's) work <TAB> reveal <TAB> the truth they/(the manipulations) obscure
+such(such as the aforementionned) manipulations <TAB> obscure <TAB> the truth
+
+#37: Chomsky believes this web of falsehood can be broken by " common sense " , critical thinking , and understanding the roles of self - interest and self - deception , and that intellectuals abdicate their moral responsibility to tell the truth about the world in fear of losing prestige and funding . 
+
+Chomsky <TAB> believes <TAB> (this web of falsehood)/(the systematic distortion or suppression of the truth about political realities) can be broken by " common sense "
+this web of falsehood  <TAB> can be broken by  <TAB> " common sense " [attributed]
+" common sense " <TAB> can [break] <TAB> this web of falsehood [attributed]
+Chomsky <TAB> believes <TAB> this web of falsehood can be broken by  critical thinking 
+this web of falsehood  <TAB> can be broken by  <TAB>falsehood [attributed]
+
+this web of falsehood  <TAB> can be broken by  <TAB> understanding the roles of self - interest [attributed]
+(This web of falsehood)/(the systematic distortion or suppression of the truth about political realities) <TAB> can be broken by <TAB> understanding the roles of self - deception [✔ attributive/speculative]
+understanding the roles of self - interest <TAB> can [break] <TAB> this web of falsehood [attributed]
+understanding the roles of self - deception <TAB> can [break] <TAB> (This web of falsehood)/(the systematic distortion or suppression of the truth about political realities) [✔ attributive/speculative]
+Chomsky <TAB> believes that <TAB> intellectuals abdicate their/(the intellectuals’) moral responsibility to tell the truth about the world in fear of losing prestige and funding 
+intellectuals <TAB> abdicate their/(the intellectuals’) moral responsibility to tell the truth about the world <TAB> in fear of losing prestige [attributed]
+intellectuals <TAB> abdicate their/(the intellectual's) moral responsibility to tell the truth about the world <TAB> in fear of losing funding [attributed]
+intellectuals <TAB> fear [to] <TAB> [lose] prestige [attributed]
+intellectuals <TAB> fear [to] <TAB> [lose] funding [attributed]
+intellectuals <TAB> [have] <TAB> [a] moral responsibility to tell the truth about the world [attributed]
+
+
+#38: He argues that , as such an intellectual , it is his duty to use his social privilege , resources , and training to aid popular democracy movements in their struggles .
+
+He/Chomsky <TAB> argues that <TAB> it is his/(Chomsky's) duty to use his/(Chomsky's) social privilege  , resources , and training to aid popular democracy movements in their/(popular democracy's) struggles
+
+
+
+
+
+
+popular democracy movements <TAB> [have] <TAB> struggles
+
+My tupples for this sentence:
+He/Chomsky <TAB> argues that <TAB> it is his/(Chomsky's) duty to use his/(Chomsky's) social privilege , resources , and training to aid popular democracy movements in their struggles
+He/Chomsky <TAB> [is] <TAB> an intellectual
+His/(Chomsky's) duty <TAB> is <TAB> to use his/(Chomsky's) social privilege <TAB> to aid popular democracy movements <TAB> in their/(popular democracy movements') struggles [✔ attributive/speculative]
+His/(Chomsky's) duty <TAB> is <TAB> to use his/(Chomsky's) resources <TAB> to aid popular democracy movements <TAB> in their/(popular democracy movements') struggles [✔ attributive/speculative]
+His/(Chomsky's) duty <TAB> is <TAB> to use his/(Chomsky's) training <TAB> to aid popular democracy movements <TAB> in their/(popular democracy movements') struggles [✔ attributive/speculative]
+[Chomsky] <TAB> [has] <TAB> social privilege
+[Chomsky] <TAB> [has] <TAB> resources
+[Chomsky] <TAB> [has] <TAB> training
+Popular democracy movements <TAB> [have] <TAB> struggles
+
+#39: Although he has participated in direct action demonstrations â€”joining protests , being arrested , organizing groups â€” Chomsky 's primary political outlet is education , i.e. , free public lessons .
+
+he/Chomsky <TAB> has participated in <TAB> direct action demonstrations
+he/Chomsky <TAB> has [joined] <TAB> protests 
+he/Chomsky <TAB> has [been] arrested 
+he/Chomsky <TAB> has [organized] <TAB> groups
+Chomsky 's primary political outlet <TAB> is <TAB> education
+Chomsky 's primary political outlet <TAB> is <TAB> free public lessons
+Chomsky <TAB> [has] <TAB> [a] political outlet 
+free public lessons <TAB> [is an example of] <TAB> education
+
+#40: He is a longtime member of the Industrial Workers of the World international union , as was his father .
+
+He/Chomsky <TAB> is a longtime member of <TAB> the Industrial Workers of the World international union
+He/Chomsky <TAB> is a member of <TAB> the Industrial Workers of the World international union
+his(Chomsky's) father <TAB> was a longtime member of <TAB> the Industrial Workers of the World international union
+his(Chomsky's) father <TAB> was a member of <TAB> the Industrial Workers of the World international union
+the Industrial Workers of the World <TAB> [is] <TAB> [an] international union
+
+
