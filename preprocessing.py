@@ -73,3 +73,80 @@ def clean_slash(input_string):
 
 def clean_tuple(tupl) :
   return clean_brackets(clean_slash(clean_square_brackets(tupl)))
+
+
+def string_to_tuple(input_string):
+    lines = input_string.strip().split('\n')
+    first_three_elements = lines[:3]
+
+    # Check if this is a mono argument relation
+    if len(lines) > 3 and (not lines[3].strip() or lines[3].strip().isdigit()):
+        tuples = ' <TAB> '.join(first_three_elements)
+    else:
+        tuples = ' <TAB> '.join(lines)
+
+    return tuples
+
+
+def parse_reverb_file(file_path):
+    data_dict = {}
+
+    with open(file_path, 'r') as file:
+        content = file.read().split("raw_files/p7-li_2023_ie-akgc_project-corpus.txt")
+
+        for i, fragment in enumerate(content[1:]):
+            lines = fragment.strip().split('\n', 1)
+
+            if len(lines) > 1:
+                key = lines[0].strip()
+                value = lines[1].strip()
+
+                if key not in data_dict:
+                    data_dict[key] = []
+
+                data_dict[key].append(string_to_tuple(value))
+
+    return data_dict
+
+
+def parse_tuple(input_string):
+
+    elements = input_string.split("<TAB>")
+
+    elements = [elem.strip() for elem in elements if elem]
+
+    return {
+        'arg1': elements[0] if len(elements) > 0 else None,
+        'rel': elements[1] if len(elements) > 1 else None,
+        'arg3': elements[2] if len(elements) > 2 else None,
+        'arg4': elements[3] if len(elements) > 3 else None
+    }
+
+
+def parse_txt_file_complex(file_path):
+    result_dict = {}
+    current_key = None
+    current_value = []
+    sentence_dic = {}
+
+    with open(file_path, 'r') as file:
+        for line in file:
+            line = line.strip()
+            if line.startswith('#'):
+
+                first_line = line[1:].strip()
+                current_key = int(first_line.split(":")[0])
+                sentence_dic[current_key]= " ".join(first_line.split(":")[1:])
+                current_value = []
+            elif line:  # Check if the line is not empty or just spaces
+                current_value.append(parse_tuple(line))
+
+
+            if current_key is not None:
+                    result_dict[current_key] = current_value
+
+    # Add the last entry to the dictionary
+    if current_key is not None:
+        result_dict[current_key] = current_value
+
+    return result_dict
