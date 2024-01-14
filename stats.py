@@ -1,3 +1,6 @@
+import matplotlib.pyplot as plt
+
+#transform annotations to dict
 def parse_txt_file(file_path):
     result_dict = {}
     current_key = None
@@ -20,7 +23,7 @@ def parse_txt_file(file_path):
 
     return result_dict
 
-
+#number of sentences with resolved anaphora
 def nb_anaphora (corpus):
   count = 0
   for sentence in corpus:
@@ -37,7 +40,7 @@ def nb_anaphora (corpus):
 
   return count
 
-
+#average of number of tuples per sentence
 def avg_tuples_per_sentence(corpus):
   total = 0
   for sentence in corpus:
@@ -45,7 +48,7 @@ def avg_tuples_per_sentence(corpus):
 
   return round(total/len(corpus), 2)
 
-
+#distribution of number of elements per tuple
 def dist_elements_per_tuple(corpus):
   dist = {}
   for sentence in corpus:
@@ -58,5 +61,15 @@ def dist_elements_per_tuple(corpus):
         print(tup)
   
   return dist
+
+#plot distribution results
+def plot_dist(dist):
+  keys = list(dist.keys())
+  values = list(dist.values())
+
+  plt.bar(keys, values)
+
+  plt.show()
+
 
 corpus = parse_txt_file("IE_AKGC_GOLD.txt")
