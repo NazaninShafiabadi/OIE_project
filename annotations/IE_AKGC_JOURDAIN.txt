@@ -1,79 +1,95 @@
-#1: Avram Noam Chomsky ( born December 7, 1928 ) is an American professor and public intellectual known for his work in linguistics, political activism, and social criticism .
+#1: Avram Noam Chomsky ( born December 7 , 1928 ) is an American professor and public intellectual known for his work in linguistics , political activism , and social criticism .
 
-Avram Noam Chomsky <TAB> [is] born [on] <TAB> December 7, 1928
-Avram Noam Chomsky <TAB> is <TAB> a professor
-Avram Noam Chomsky <TAB> is <TAB> an American professor
-Avram Noam Chomsky <TAB> is <TAB> [a] public intellectual
-Avram Noam Chomsky <TAB> [is] <TAB> known for his work in linguistics   
-Avram Noam Chomsky <TAB> [is] <TAB> known for his work in political activism
-Avram Noam Chomsky <TAB> [is] <TAB> known for his work in social criticism
+Chomsky <TAB> [has as a full name] <TAB> Avram Noam Chomsky
+Chomsky <TAB>  [was] born  <TAB> December 7 , 1928
+Chomsky <TAB> is <TAB> an American professor
+Chomsky <TAB> is <TAB> a professor
+Chomsky <TAB> is <TAB> an American
+Chomsky <TAB> is <TAB> a public intellectual
+Chomsky <TAB> is known for his work in <TAB> linguistics
+Chomsky <TAB> [worked] in <TAB> linguistics
+Chomsky <TAB> is known for his work in <TAB> political activism
+Chomsky <TAB> [worked] in <TAB> political activism
+Chomsky <TAB> is known for his work in <TAB> social criticism
+Chomsky <TAB> [worked] in <TAB> social criticism
 
-#2: Sometimes called " the father of modern linguistics ", Chomsky is also a major figure in analytic philosophy and one of the founders of the field of cognitive science .
+#2: Sometimes called " the father of modern linguistics " , Chomsky is also a major figure in analytic philosophy and one of the founders of the field of cognitive science .
 
-Chomsky <TAB> [is] called <TAB> " the father of modern linguistics "
-Chomsky <TAB>[is] the father of <TAB> modern linguistics [attributed]
-[people] <TAB> call Chomsky <TAB> " the father of modern linguistics "
-Chomsky <TAB> is a major figure in <TAB> analytic philosophy 
-Chomsky <TAB> is one of the founders of <TAB> the field of cognitive science
+Chomsky <TAB> [is]  called <TAB> " the father of modern linguistics " 
+Chomsky <TAB> [is]   <TAB> the father of modern linguistics [attributed] 
+Chomsky <TAB> is a major figure in <TAB> analytic philosophy
+Chomsky <TAB> is one of the founders of <TAB> the field of cognitive science 
+Chomsky <TAB> [founded] <TAB> the field of cognitive science 
+cognitive science <TAB> is <TAB> [a] field
 
 #3: He is a laureate professor of linguistics at the University of Arizona and an institute professor emeritus at the Massachusetts Institute of Technology ( MIT ) .
 
-He/Chomsky <TAB> is <TAB> a professor
-He/Chomsky <TAB> is <TAB>  a laureate professor of linguistics <TAB> at the University of Arizona 
-He/Chomsky<TAB> is <TAB> an institute professor emeritus <TAB> at the Massachusetts Institute of Technology
+He/Chomsky <TAB>  is <TAB> a laureate professor of linguistics <TAB> at the University of Arizona 
+Arizona <TAB> [has a] <TAB> University
+He/Chomsky <TAB>  is <TAB> a professor
+He/Chomsky <TAB>  is <TAB> a professor of linguistics
+He/Chomsky <TAB>  is <TAB> a laureate professor
+He/Chomsky <TAB>  is <TAB> an institute professor emeritus <TAB> at the Massachusetts Institute of Technology ( MIT )
 MIT <TAB> [stands for] <TAB> Massachusetts Institute of Technology
 
-#4: Among the most cited living authors, Chomsky has written more than 150 books on topics such as linguistics, war, and politics .
+#4: Among the most cited living authors , Chomsky has written more than 150 books on topics such as linguistics , war , and politics .
 
-Chomsky <TAB> [is] among <TAB>  the most cited living authors
+Chomsky <TAB> [is] among <TAB> the most cited living authors
+Chomsky <TAB> [is] <TAB> [an] author
+Chomsky <TAB> [is] <TAB> cited
+Chomsky <TAB> [is] <TAB> [alive]
+Chomsky <TAB> has written <TAB> more than 150 books <TAB> on topics such as linguistics , war , and politics
 Chomsky <TAB> has written <TAB> books
-Chomsky <TAB> has written <TAB> more than 150 books
 Chomsky <TAB> has written <TAB> books <TAB> on linguistics
 Chomsky <TAB> has written <TAB> books <TAB> on war
 Chomsky <TAB> has written <TAB> books <TAB> on politics
 
-#5: Ideologically <TAB> he aligns with anarcho- syndicalism and libertarian socialism .
 
-he/Chomsky <TAB> ideologically aligns with <TAB>  anarcho- syndicalism
-he/Chomsky<TAB> ideologically aligns with <TAB>  libertarian socialism
+#5: Ideologically , he aligns with anarcho- syndicalism and libertarian socialism .
 
-#6: Born to Ashkenazi Jewish immigrants in Philadelphia, Chomsky developed an early interest in anarchism from alternative bookstores in New York City .
+he/Chomsky <TAB> ideologically aligns with <TAB> anarcho- syndicalism
+he/Chomsky <TAB> ideologically aligns with <TAB> libertarian socialism 
+
+
+#6: Born to Ashkenazi Jewish immigrants in Philadelphia , Chomsky developed an early interest in anarchism from alternative bookstores in New York City .
 
 Chomsky <TAB> [was] born to <TAB> Ashkenazi Jewish immigrants <TAB> in Philadelphia
-Chomsky <TAB> [was] born to <TAB>  Ashkenazi [jews]
-Chomsky <TAB> [was] born to <TAB>  immigrants
-Chomsky <TAB>  developed an early interest <TAB>  in anarchism <TAB>  from alternative bookstores <TAB>  in New York City
-Chomsky <TAB> [frequented] <TAB>  alternative bookstores <TAB> in New York City
+Chomsky <TAB> [was] born to <TAB> immigrants 
+Chomsky <TAB> [was] born to <TAB> Ashkenazi [Jews]
+Chomsky <TAB> developed an early interest in <TAB>  anarchism <TAB> from alternative bookstores <TAB> in New York City
+Chomsky <TAB> [frequented] <TAB> alternative bookstores <TAB> in New York City
+New York City <TAB> [has]  <TAB> alternative bookstores
+Chomsky <TAB> [was interested] in <TAB>  anarchism 
 
-#7: He studied at the University of Pennsylvania .
+#7: He studied at the University of Pennsylvania
 
-He/Chomsky <TAB> [went to university]) 
-He/Chomsky <TAB> studied <TAB> at the University of Pennsylvania
-He/Chomsky <TAB> studied <TAB> in Philadelphia
+He <TAB> studied <TAB> at the University of Pennsylvania .
+Pennsylvania <TAB> [has a] <TAB> University
 
-#8: During his postgraduate work in the Harvard Society of Fellows, Chomsky developed the theory of transformational grammar for which he earned his doctorate in 1955 .
+#8: During his postgraduate work in the Harvard Society of Fellows , Chomsky developed the theory of transformational grammar for which he earned his doctorate in 1955 .
 
-He/Chomsky <TAB> [did postgraduate studies]  <TAB> at Harvard
-He/Chomsky <TAB> [studied] / [did postgraduate studies]<TAB> in Boston  
-He/Chomsky <TAB> [worked] <TAB> in the Harvard Society of Fellows 
-He/Chomsky <TAB> developped <TAB> [a] theory
-He/Chomsky <TAB> developped <TAB> the theory of transformational grammar
-He/Chomsky <TAB> earned his/(Chomsky's) doctorate
-He/Chomsky <TAB> earned his/(Chomsky's) doctorate <TAB> in 1955 <TAB> for the theory of transformational grammar
+Chomsky <TAB> [did] postgraduate work <TAB> in the Harvard Society of Fellows
+Chomsky <TAB> [did] [worked] <TAB> in the Harvard Society of Fellows
+Chomsky <TAB> developed <TAB> the theory of transformational grammar <TAB> for which he/Chomsky earned his/(Chomsky's) doctorate in 1955
+Chomsky <TAB> developed <TAB> [a] theory
+transformational grammar <TAB> [is] <TAB> [a] theory
+Chomsky <TAB> earned his/(Chomsky's) doctorate <TAB> in 1955
 
-#9: That year he began teaching at MIT, and in 1957 emerged as a significant figure in linguistics with his landmark work Syntactic Structures <TAB> which played a major role in remodeling the study of language .
 
-He/Chomsky <TAB> began teaching <TAB> at MIT <TAB> (that year)/(in 1955)
-He/Chomsky <TAB> [taught] <TAB> at MIT <TAB> that year/1955 NOT  REPEAT
-He/Chomsky <TAB> emerged as a significant figure in <TAB> linguistics <TAB> in 1957 <TAB>  with his landmark work Syntactic Structures
-He/Chomsky <TAB> [wrote] <TAB>  Syntactic Structures
-Syntactic Structures <TAB>  played a major role in <TAB> remodeling the study of language
-ADD Syntactic Structures <TAB> [is] <TAB> [a] landmark work
+#9: That year he began teaching at MIT , and in 1957 emerged as a significant figure in linguistics with his landmark work Syntactic Structures , which played a major role in remodeling the study of language .
+
+he/Chomsky <TAB>  began teaching <TAB> at MIT <TAB> (that year)/(in 1955)
+he/Chomsky <TAB>  [taught] <TAB> at MIT
+he/Chomsky <TAB>  emerged as a significant figure in <TAB> linguistics <TAB> with his/(Chomsky's) landmark work Syntactic Structures <TAB> in 1957
+he/Chomsky <TAB>  [is] as a figure in <TAB> linguistics 
+he/Chomsky <TAB> wrote <TAB>  Syntactic Structures
+Syntactic Structures <TAB> [is] <TAB> [a] landmark work
+Syntactic Structures <TAB> [was written] <TAB> in 1957
 
 #10: From 1958 to 1959 Chomsky was a National Science Foundation fellow at the Institute for Advanced Study .
 
-Chomsky <TAB>  was <TAB> a National Science Foundation fellow <TAB>  at the Institute for Advanced Study <TAB> From 1958 to 1959
-Chomsky <TAB> [obtained] <TAB> [a fellowship]
+Chomsky <TAB> was <TAB> a National Science Foundation fellow <TAB> at the Institute for Advanced Study <TAB> from 1958 to 1959 
+Chomsky <TAB> was <TAB> a fellow 
 
 #11:  He created or co-created the universal grammar theory , the generative grammar theory , the Chomsky hierarchy , and the minimalist program .
 
