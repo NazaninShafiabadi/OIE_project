@@ -378,10 +378,11 @@ intellectuals <TAB> fear [to] <TAB> [lose] prestige [attributed]
 intellectuals <TAB> fear [to] <TAB> [lose] funding [attributed]
 intellectuals <TAB> [have] <TAB> [a] moral responsibility to tell the truth about the world [attributed]
 
-
 #38: He argues that , as such an intellectual , it is his duty to use his social privilege , resources , and training to aid popular democracy movements in their struggles .
 
 He/Chomsky <TAB> argues that <TAB> it is his/(Chomsky's) duty to use his/(Chomsky's) social privilege , resources , and training to aid popular democracy movements in their struggles
+He/Chomsky <TAB> argues that <TAB> it is his/(Chomsky's) duty to use his/(Chomsky's) social privilege  , resources , and training to aid popular democracy movements in their/(popular democracy's) struggles
+popular democracy movements <TAB> [have] <TAB> struggles
 He/Chomsky <TAB> [is] <TAB> an intellectual
 His/(Chomsky's) duty <TAB> is <TAB> to use his/(Chomsky's) social privilege <TAB> to aid popular democracy movements <TAB> in their/(popular democracy movements') struggles [✔ attributive/speculative]
 His/(Chomsky's) duty <TAB> is <TAB> to use his/(Chomsky's) resources <TAB> to aid popular democracy movements <TAB> in their/(popular democracy movements') struggles [✔ attributive/speculative]
@@ -389,7 +390,6 @@ His/(Chomsky's) duty <TAB> is <TAB> to use his/(Chomsky's) training <TAB> to aid
 [Chomsky] <TAB> [has] <TAB> social privilege
 [Chomsky] <TAB> [has] <TAB> resources
 [Chomsky] <TAB> [has] <TAB> training
-Popular democracy movements <TAB> [have] <TAB> struggles
 
 #39: Although he has participated in direct action demonstrations â€”joining protests , being arrested , organizing groups â€” Chomsky 's primary political outlet is education , i.e. , free public lessons .
 

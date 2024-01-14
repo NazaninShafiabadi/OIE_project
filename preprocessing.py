@@ -48,24 +48,18 @@ def clean_slash(input_string):
       rm_single_bracket = False
 
       if "/" in word :
-        print(word)
         i = word.find('/')
         if word[i+1] != "(" : # we dont need to change anything as brackets will be deleted
             word = word[0:i]
 
-        print("2",word)
-
         if word [i-1] == ")" :
-          print("tubercule")
           word = word.replace(")", "")
           rm_single_bracket = True
-
-        print("3",word)
 
       word = word.replace("/", "")
 
       result_string += word + " "
-      print(result_string)
+
       if rm_single_bracket :result_string = remove_last_opening_parenthesis(result_string)
 
     return result_string
@@ -112,7 +106,6 @@ def parse_reverb_file(file_path):
 def parse_tuple(input_string):
 
     elements = input_string.split("<TAB>")
-
     elements = [elem.strip() for elem in elements if elem]
 
     return {
@@ -125,7 +118,7 @@ def parse_tuple(input_string):
     }
 
 
-def parse_txt_file_complex(file_path, resolve=False):
+def parse_txt_file_complex(file_path, infer_and_resolve=False):
     result_dict = {}
     current_key = None
     current_value = []
@@ -141,11 +134,10 @@ def parse_txt_file_complex(file_path, resolve=False):
                 sentence_dic[current_key]= " ".join(first_line.split(":")[1:])
                 current_value = []
             elif line:  # Check if the line is not empty or just spaces
-                if resolve:
+                if infer_and_resolve:
                     current_value.append(parse_tuple(line))
                 else:
                     current_value.append(parse_tuple(clean_tuple(line)))
-
 
             if current_key is not None:
                     result_dict[current_key] = current_value
