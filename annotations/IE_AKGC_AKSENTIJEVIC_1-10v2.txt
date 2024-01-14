@@ -18,11 +18,11 @@ Chomsky <TAB> is one of the founders of <TAB> the field of cognitive science
 			 
 #3: He is a laureate professor of linguistics at the University of Arizona and an institute professor emeritus at the Massachusetts Institute of Technology ( MIT ) .
 
-He/Chomsky	is 	a laureate professor of linguistics	at the University of Arizona
-He/Chomsky	is	[a] professor	
-MIT	[stands for]	Massachusetts Institute of Technology	
-He/Chomsky	is 	an institute professor emeritus	at the MIT
-He/Chomsky	[retired from]	MIT	
+He/Chomsky <TAB> is  <TAB> a laureate professor of linguistics <TAB> at the University of Arizona
+He/Chomsky <TAB> is <TAB> [a] professor	
+MIT <TAB> [stands for] <TAB> Massachusetts Institute of Technology	
+He/Chomsky <TAB> is  <TAB> an institute professor emeritus <TAB> at the MIT
+He/Chomsky <TAB> [retired from] <TAB> MIT	
 
 #4: Among the most cited living authors , Chomsky has written more than 150 books on topics such as linguistics , war , and politics .					
 
