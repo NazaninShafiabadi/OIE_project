@@ -118,12 +118,14 @@ def parse_tuple(input_string):
     return {
         'arg1': elements[0] if len(elements) > 0 else None,
         'rel': elements[1] if len(elements) > 1 else None,
-        'arg3': elements[2] if len(elements) > 2 else None,
-        'arg4': elements[3] if len(elements) > 3 else None
+        'arg2': elements[2] if len(elements) > 2 else None,
+        'arg3': elements[3] if len(elements) > 3 else None,
+        'arg4': elements[4] if len(elements) > 4 else None,
+        'arg5': elements[5] if len(elements) > 5 else None
     }
 
 
-def parse_txt_file_complex(file_path):
+def parse_txt_file_complex(file_path, resolve=False):
     result_dict = {}
     current_key = None
     current_value = []
@@ -139,7 +141,10 @@ def parse_txt_file_complex(file_path):
                 sentence_dic[current_key]= " ".join(first_line.split(":")[1:])
                 current_value = []
             elif line:  # Check if the line is not empty or just spaces
-                current_value.append(parse_tuple(line))
+                if resolve:
+                    current_value.append(parse_tuple(line))
+                else:
+                    current_value.append(parse_tuple(clean_tuple(line)))
 
 
             if current_key is not None:
