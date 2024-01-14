@@ -1,0 +1,70 @@
+#11: He created or co-created the universal grammar theory , the generative grammar theory , the Chomsky hierarchy , and the minimalist program .
+
+He/Chomsky <TAB> created or co-created <TAB> the universal grammar theory
+He/Chomsky <TAB> created or co-created <TAB> the generative grammar theory
+He/Chomsky <TAB> created or co-created <TAB> the Chomsky hierarchy
+He/Chomsky <TAB> created or co-created <TAB> the minimalist program					
+
+#12: Chomsky also played a pivotal role in the decline of linguistic behaviorism , and was particularly critical of the work of B. F. Skinner .					
+
+Chomsky <TAB> played a pivotal role in <TAB> the decline of lingustic behavorism
+Chomsky <TAB> was critical of <TAB> the work of B. F. Skinner
+
+#13: An outspoken opponent of U.S. involvement in the Vietnam War , which he saw as an act of American imperialism , in 1967 Chomsky rose to national attention for his anti-war essay " The Responsibility of Intellectuals " .					
+Chomsky <TAB> [is] an opponent of <TAB> U.S. involvement in the Vietnam War		
+U.S. <TAB> [stands for] <TAB> [United States]		
+U.S. <TAB> [is involved in] <TAB> the Vietnam War		
+He/Chomsky <TAB> saw <TAB> [the](U.S. involvement in the Vietnam War) <TAB> as an act of American imperialism [✔ attributive/speculative ]
+Chomsky <TAB> rose to <TAB> national attention <TAB> for his/(Chomsky) anti-war essay " The Responsibility of Intellectuals "	in 1967
+Chomsky <TAB> [is the author of] <TAB> [an] anti-war essay " The Responsibility of Intellectuals " 		
+" The Responsibility of Intellectuals " <TAB> [is] <TAB> [an] anti-war essay		
+
+#14: Becoming associated with the New Left , he was arrested multiple times for his activism and placed on President Richard Nixon 's list of political opponents .					
+
+He/(Chomsky) <TAB> [was] associated with <TAB> the New Lift	
+He/(Chomsky) <TAB> was arrested for <TAB> his/(Chomsky) activism	multiple times
+He/(Chomsky) <TAB> was placed on <TAB> President Richard Nixon 's list of political opponents	
+Richard Nixon <TAB> is <TAB> [a] president	
+Richard Nixon <TAB> [has] <TAB> [a] list of political opponents	
+
+#15: While expanding his work in linguistics over subsequent decades , he also became involved in the linguistics wars .					
+
+He/(Chomsky) <TAB> [was] involved in <TAB> the lingutics wars	
+He/(Chomsky) <TAB> expanded <TAB> his/(Chomsky) work in linguistics <TAB> over subsequent decades
+He/(Chomsky) <TAB> [was working in the field of] <TAB> linguistics	
+
+#16: In collaboration with Edward S. Herman , Chomsky later articulated the propaganda model of media criticism in Manufacturing Consent , and worked to expose the Indonesian occupation of East Timor 					
+
+Chomsky <TAB> [collaborated with] <TAB> Edward S. Herman		
+Chomsky <TAB> articulated <TAB> the propaganda model of media criticism <TAB> in Manufacturing Consent <TAB> In collaboration with Edward S. Herman
+Chomsky <TAB> [wanted to expose] <TAB> the Indonesian occupation of East Timor		
+East Timor <TAB> [was occupied by] <TAB> Indonesia [✔ attributive/speculative ]		
+
+#17: His defense of unconditional freedom of speech , including that of Holocaust denial , generated significant controversy in the Faurisson affair of the 1980s .					
+
+He/(Chomsky) <TAB> [defended] <TAB> unconditional freedom of speech
+He/(Chomsky) <TAB> [spoke about] <TAB> [the] Holocaust denial
+The Faurisson affair <TAB> [was controversed  by] <TAB> his/(Chomsky) defense of unconditional freedom of speech
+The Faurisson affair <TAB> [took place in] <TAB> [the] 1980'
+
+#18: Chomsky 's commentary on the Cambodian genocide also generated controversy .					
+
+Chomsky <TAB> [commented] <TAB> the Cambodian genocide	
+Chomsky <TAB> generated <TAB> controversy <TAB> [with his]commentary/(on the Cambodian genocide)
+Cambodia <TAB> [suffered] <TAB> [a] genocide [✔ attributive/speculative ]	
+
+#19: Since retiring from active teaching at MIT , he has continued his vocal political activism , including opposing the 2003 invasion of Iraq and supporting the Occupy movement .					
+
+He/(Chomsky) <TAB> [retired] from <TAB> active teaching <TAB> at MIT
+He/(Chomsky) <TAB> [was teaching at] <TAB> MIT	
+He/(Chomsky) <TAB> has continued <TAB> his/(Chomsky) vocal political activism	
+He/(Chomsky) <TAB> [was involved in] <TAB> [politics]	
+He/(Chomsky) <TAB> [opposed to] <TAB> invasion of Iraq <TAB> [in] 2003
+He/(Chomsky) <TAB> [was supporter of] <TAB> the Occupy movement	
+Iraq <TAB> [was invaded in] <TAB> 2003	
+
+#20: Chomsky began teaching at the University of Arizona in 2017 .					
+
+Chomsky <TAB> began teaching at <TAB> the University of Arizona <TAB> in 2017
+Chomsky <TAB> [was] <TAB> [a] professor	
+Arizona <TAB> [has] <TAB> the University
