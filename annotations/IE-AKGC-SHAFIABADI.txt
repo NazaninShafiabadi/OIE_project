@@ -236,7 +236,7 @@ Empiricism <TAB> contends that <TAB> all knowledge , including language , comes 
 All knowledge <TAB> comes from <TAB> external stimuli ﻿[✔ attributive/speculative]                      
 Language <TAB> comes from <TAB> external stimuli ﻿[✔ attributive/speculative]      
                                                                                                                                                            
-#29 Historians have disputed Chomsky 's claim about rationalism on the basis that his theory of innate grammar excludes propositional knowledge and instead focuses on innate learning capacities or structures . 
+#29: Historians have disputed Chomsky 's claim about rationalism on the basis that his theory of innate grammar excludes propositional knowledge and instead focuses on innate learning capacities or structures . 
                                                                                                                                                                                                                                                                              
 Historians <TAB> have disputed <TAB> Chomsky 's claim about rationalism <TAB> on the basis that his/(Chomsky's) theory of innate grammar excludes propositional knowledge and instead focuses on innate learning capacities or structures                                                                         
 Historians <TAB> have disputed <TAB> Chomsky 's claim about rationalism                         
