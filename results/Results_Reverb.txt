@@ -1,0 +1,2844 @@
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+1
+Avram Noam Chomsky
+is
+an American professor and public intellectual
+0
+3
+3
+4
+4
+10
+0.35119862522603656
+Avram Noam Chomsky is an American professor and public intellectual known for his work in linguistics , political activism , and social criticism .
+NNP NNP NNP VBZ DT JJ NN CC JJ JJ VBN IN PRP$ NN IN NNS , JJ NN , CC JJ NN .
+B-NP I-NP I-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP B-VP B-PP B-NP I-NP B-PP B-NP O B-NP I-NP O O B-NP I-NP O
+avram noam chomsky
+be
+an american professor and public intellectual
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+1
+an American professor and public intellectual
+known for
+his work
+4
+10
+10
+12
+12
+14
+0.7934679633763672
+Avram Noam Chomsky is an American professor and public intellectual known for his work in linguistics , political activism , and social criticism .
+NNP NNP NNP VBZ DT JJ NN CC JJ JJ VBN IN PRP$ NN IN NNS , JJ NN , CC JJ NN .
+B-NP I-NP I-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP B-VP B-PP B-NP I-NP B-PP B-NP O B-NP I-NP O O B-NP I-NP O
+an american professor and public intellectual
+know for
+his work
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+1
+Avram Noam Chomsky
+is
+an American professor and public intellectual
+0
+3
+3
+4
+4
+10
+0.35119862522603656
+Avram Noam Chomsky is an American professor and public intellectual known for his work in linguistics , political activism , and social criticism .
+NNP NNP NNP VBZ DT JJ NN CC JJ JJ VBN IN PRP$ NN IN NNS , JJ NN , CC JJ NN .
+B-NP I-NP I-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP B-VP B-PP B-NP I-NP B-PP B-NP O B-NP I-NP O O B-NP I-NP O
+avram noam chomsky
+be
+an american professor and public intellectual
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+1
+an American professor and public intellectual
+known for
+his work
+4
+10
+10
+12
+12
+14
+0.7934679633763672
+Avram Noam Chomsky is an American professor and public intellectual known for his work in linguistics , political activism , and social criticism .
+NNP NNP NNP VBZ DT JJ NN CC JJ JJ VBN IN PRP$ NN IN NNS , JJ NN , CC JJ NN .
+B-NP I-NP I-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP B-VP B-PP B-NP I-NP B-PP B-NP O B-NP I-NP O O B-NP I-NP O
+an american professor and public intellectual
+know for
+his work
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+2
+Chomsky
+is also
+a major figure
+10
+11
+11
+13
+13
+16
+0.6343956790758555
+Sometimes called " the father of modern linguistics " , Chomsky is also a major figure in analytic philosophy and one of the founders of the field of cognitive science .
+RB VBN `` DT NN IN JJ NNS `` , NNP VBZ RB DT JJ NN IN JJ NN CC NN IN DT NNS IN DT NN IN JJ NN .
+B-ADVP B-VP O B-NP I-NP I-NP I-NP I-NP O O B-NP B-VP B-ADVP B-NP I-NP I-NP B-PP B-NP I-NP O B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O
+chomsky
+be
+a major figure
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+2
+Chomsky
+is also a major figure in
+analytic philosophy
+10
+11
+11
+17
+17
+19
+0.7500574266875848
+Sometimes called " the father of modern linguistics " , Chomsky is also a major figure in analytic philosophy and one of the founders of the field of cognitive science .
+RB VBN `` DT NN IN JJ NNS `` , NNP VBZ RB DT JJ NN IN JJ NN CC NN IN DT NNS IN DT NN IN JJ NN .
+B-ADVP B-VP O B-NP I-NP I-NP I-NP I-NP O O B-NP B-VP B-ADVP B-NP I-NP I-NP B-PP B-NP I-NP O B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O
+chomsky
+be figure in
+analytic philosophy
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+3
+He
+is
+a laureate professor of linguistics
+0
+1
+1
+2
+2
+7
+0.464308768969765
+He is a laureate professor of linguistics at the University of Arizona and an institute professor emeritus at the Massachusetts Institute of Technology .
+PRP VBZ DT NN NN IN NNS IN DT NNP IN NNP CC DT NN NN NN IN DT NNP NNP IN NNP .
+B-NP B-VP B-NP I-NP I-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP O
+he
+be
+a laureate professor of linguistics
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+4
+Chomsky
+has written
+more than 150 books
+7
+8
+8
+10
+10
+14
+0.5564499134300328
+Among the most cited living authors , Chomsky has written more than 150 books on topics such as linguistics , war , and politics .
+IN DT JJS VBN VBG NNS , NNP VBZ VBN JJR IN CD NNS IN NNS JJ IN NNS , NN , CC NNS .
+B-PP B-NP I-NP I-NP I-NP I-NP O B-NP B-VP I-VP B-NP I-NP I-NP I-NP B-PP B-NP B-PP I-PP B-NP O B-NP O O B-NP O
+chomsky
+write
+more than # books
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+4
+Chomsky
+has written more than
+150 books
+7
+8
+8
+12
+12
+14
+0.6718741724902147
+Among the most cited living authors , Chomsky has written more than 150 books on topics such as linguistics , war , and politics .
+IN DT JJS VBN VBG NNS , NNP VBZ VBN JJR IN CD NNS IN NNS JJ IN NNS , NN , CC NNS .
+B-PP B-NP I-NP I-NP I-NP I-NP O B-NP B-VP I-VP B-NP I-NP I-NP I-NP B-PP B-NP B-PP I-PP B-NP O B-NP O O B-NP O
+chomsky
+write more than
+# books
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+5
+he
+aligns with
+anarcho- syndicalism
+2
+3
+3
+5
+5
+7
+0.33323683079833966
+Ideologically , he aligns with anarcho- syndicalism and libertarian socialism .
+RB , PRP VBZ IN DT NN CC JJ NN .
+B-ADVP O B-NP B-VP B-PP B-NP I-NP O B-NP I-NP O
+he
+align with
+anarcho- syndicalism
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+5
+he
+aligns with
+anarcho- syndicalism
+2
+3
+3
+5
+5
+7
+0.33323683079833966
+Ideologically , he aligns with anarcho- syndicalism and libertarian socialism .
+RB , PRP VBZ IN DT NN CC JJ NN .
+B-ADVP O B-NP B-VP B-PP B-NP I-NP O B-NP I-NP O
+he
+align with
+anarcho- syndicalism
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+6
+
+Born to
+Ashkenazi Jewish immigrants
+0
+0
+0
+2
+2
+5
+0.9244718513718739
+Born to Ashkenazi Jewish immigrants in Philadelphia , Chomsky developed an early interest in anarchism from alternative bookstores in New York City .
+VBN TO NNP NNP NNS IN NNP , NNP VBD DT JJ NN IN NN IN JJ NNS IN NNP NNP NNP .
+B-VP B-PP B-NP I-NP I-NP B-PP B-NP O B-NP B-VP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP B-PP B-NP I-NP I-NP O
+
+bear to
+ashkenazi jewish immigrants
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+6
+Chomsky
+developed
+an early interest
+8
+9
+9
+10
+10
+13
+0.6904025340306625
+Born to Ashkenazi Jewish immigrants in Philadelphia , Chomsky developed an early interest in anarchism from alternative bookstores in New York City .
+VBN TO NNP NNP NNS IN NNP , NNP VBD DT JJ NN IN NN IN JJ NNS IN NNP NNP NNP .
+B-VP B-PP B-NP I-NP I-NP B-PP B-NP O B-NP B-VP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP B-PP B-NP I-NP I-NP O
+chomsky
+develop
+an early interest
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+6
+
+Born to
+Ashkenazi Jewish immigrants
+0
+0
+0
+2
+2
+5
+0.9244718513718739
+Born to Ashkenazi Jewish immigrants in Philadelphia , Chomsky developed an early interest in anarchism from alternative bookstores in New York City .
+VBN TO NNP NNP NNS IN NNP , NNP VBD DT JJ NN IN NN IN JJ NNS IN NNP NNP NNP .
+B-VP B-PP B-NP I-NP I-NP B-PP B-NP O B-NP B-VP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP B-PP B-NP I-NP I-NP O
+
+bear to
+ashkenazi jewish immigrants
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+6
+Chomsky
+developed an early interest in
+anarchism
+8
+9
+9
+14
+14
+15
+0.7881677322742443
+Born to Ashkenazi Jewish immigrants in Philadelphia , Chomsky developed an early interest in anarchism from alternative bookstores in New York City .
+VBN TO NNP NNP NNS IN NNP , NNP VBD DT JJ NN IN NN IN JJ NNS IN NNP NNP NNP .
+B-VP B-PP B-NP I-NP I-NP B-PP B-NP O B-NP B-VP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP B-PP B-NP I-NP I-NP O
+chomsky
+develop interest in
+anarchism
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+7
+He
+studied at
+the University of Pennsylvania
+0
+1
+1
+3
+3
+7
+0.8547102787044842
+He studied at the University of Pennsylvania .
+PRP VBD IN DT NNP IN NNP .
+B-NP B-VP B-PP B-NP I-NP I-NP I-NP O
+he
+study at
+the university of pennsylvania
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+7
+He
+studied at
+the University of Pennsylvania
+0
+1
+1
+3
+3
+7
+0.8547102787044842
+He studied at the University of Pennsylvania .
+PRP VBD IN DT NNP IN NNP .
+B-NP B-VP B-PP B-NP I-NP I-NP I-NP O
+he
+study at
+the university of pennsylvania
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+8
+Chomsky
+developed
+the theory of transformational grammar
+11
+12
+12
+13
+13
+18
+0.6904025340306625
+During his postgraduate work in the Harvard Society of Fellows , Chomsky developed the theory of transformational grammar for which he earned his doctorate in 1955 .
+IN PRP$ JJ NN IN DT NNP NNP IN NNS , NNP VBD DT NN IN JJ NN IN WDT PRP VBD PRP$ NN IN CD .
+B-PP B-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP I-NP I-NP I-NP I-NP B-PP B-NP B-NP B-VP B-NP I-NP B-PP B-NP O
+chomsky
+develop
+the theory of transformational grammar
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+8
+he
+earned
+his doctorate
+20
+21
+21
+22
+22
+24
+0.17634691585044732
+During his postgraduate work in the Harvard Society of Fellows , Chomsky developed the theory of transformational grammar for which he earned his doctorate in 1955 .
+IN PRP$ JJ NN IN DT NNP NNP IN NNS , NNP VBD DT NN IN JJ NN IN WDT PRP VBD PRP$ NN IN CD .
+B-PP B-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP I-NP I-NP I-NP I-NP B-PP B-NP B-NP B-VP B-NP I-NP B-PP B-NP O
+he
+earn
+his doctorate
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+8
+Chomsky
+developed the theory of
+transformational grammar
+11
+12
+12
+16
+16
+18
+0.7557162003103496
+During his postgraduate work in the Harvard Society of Fellows , Chomsky developed the theory of transformational grammar for which he earned his doctorate in 1955 .
+IN PRP$ JJ NN IN DT NNP NNP IN NNS , NNP VBD DT NN IN JJ NN IN WDT PRP VBD PRP$ NN IN CD .
+B-PP B-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP I-NP I-NP I-NP I-NP B-PP B-NP B-NP B-VP B-NP I-NP B-PP B-NP O
+chomsky
+develop theory of
+transformational grammar
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+8
+he
+earned his doctorate in
+1955
+20
+21
+21
+25
+25
+26
+0.19680953673008522
+During his postgraduate work in the Harvard Society of Fellows , Chomsky developed the theory of transformational grammar for which he earned his doctorate in 1955 .
+IN PRP$ JJ NN IN DT NNP NNP IN NNS , NNP VBD DT NN IN JJ NN IN WDT PRP VBD PRP$ NN IN CD .
+B-PP B-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP I-NP I-NP I-NP I-NP B-PP B-NP B-NP B-VP B-NP I-NP B-PP B-NP O
+he
+earn doctorate in
+#
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+9
+he
+began teaching at
+MIT
+2
+3
+3
+6
+6
+7
+0.4292870803147934
+That year he began teaching at MIT , and in 1957 emerged as a significant figure in linguistics with his landmark work Syntactic Structures , which played a major role in remodeling the study of language .
+DT NN PRP VBD VBG IN NNP , CC IN CD VBD IN DT JJ NN IN NNS IN PRP$ NN NN NNP NNP , WDT VBD DT JJ NN IN VBG DT NN IN NN .
+B-NP I-NP B-NP B-VP I-VP B-PP B-NP O O B-PP B-NP B-VP B-PP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP I-NP I-NP B-PP B-VP B-NP I-NP I-NP I-NP O
+he
+begin teach at
+mit
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+9
+1957
+emerged as
+a significant figure
+10
+11
+11
+13
+13
+16
+0.5541275212564857
+That year he began teaching at MIT , and in 1957 emerged as a significant figure in linguistics with his landmark work Syntactic Structures , which played a major role in remodeling the study of language .
+DT NN PRP VBD VBG IN NNP , CC IN CD VBD IN DT JJ NN IN NNS IN PRP$ NN NN NNP NNP , WDT VBD DT JJ NN IN VBG DT NN IN NN .
+B-NP I-NP B-NP B-VP I-VP B-PP B-NP O O B-PP B-NP B-VP B-PP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP I-NP I-NP B-PP B-VP B-NP I-NP I-NP I-NP O
+#
+emerge as
+a significant figure
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+9
+his landmark work Syntactic Structures
+played
+a major role
+19
+24
+26
+27
+27
+30
+0.314291896638871
+That year he began teaching at MIT , and in 1957 emerged as a significant figure in linguistics with his landmark work Syntactic Structures , which played a major role in remodeling the study of language .
+DT NN PRP VBD VBG IN NNP , CC IN CD VBD IN DT JJ NN IN NNS IN PRP$ NN NN NNP NNP , WDT VBD DT JJ NN IN VBG DT NN IN NN .
+B-NP I-NP B-NP B-VP I-VP B-PP B-NP O O B-PP B-NP B-VP B-PP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP I-NP I-NP B-PP B-VP B-NP I-NP I-NP I-NP O
+his landmark work syntactic structures
+play
+a major role
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+9
+a major role
+remodeling
+the study of language
+27
+30
+31
+32
+32
+36
+0.49865414215349707
+That year he began teaching at MIT , and in 1957 emerged as a significant figure in linguistics with his landmark work Syntactic Structures , which played a major role in remodeling the study of language .
+DT NN PRP VBD VBG IN NNP , CC IN CD VBD IN DT JJ NN IN NNS IN PRP$ NN NN NNP NNP , WDT VBD DT JJ NN IN VBG DT NN IN NN .
+B-NP I-NP B-NP B-VP I-VP B-PP B-NP O O B-PP B-NP B-VP B-PP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP I-NP I-NP B-PP B-VP B-NP I-NP I-NP I-NP O
+a major role
+remodel
+the study of language
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+9
+he
+began teaching at
+MIT
+2
+3
+3
+6
+6
+7
+0.4292870803147934
+That year he began teaching at MIT , and in 1957 emerged as a significant figure in linguistics with his landmark work Syntactic Structures , which played a major role in remodeling the study of language .
+DT NN PRP VBD VBG IN NNP , CC IN CD VBD IN DT JJ NN IN NNS IN PRP$ NN NN NNP NNP , WDT VBD DT JJ NN IN VBG DT NN IN NN .
+B-NP I-NP B-NP B-VP I-VP B-PP B-NP O O B-PP B-NP B-VP B-PP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP I-NP I-NP B-PP B-VP B-NP I-NP I-NP I-NP O
+he
+begin teach at
+mit
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+9
+1957
+emerged as
+a significant figure
+10
+11
+11
+13
+13
+16
+0.5541275212564857
+That year he began teaching at MIT , and in 1957 emerged as a significant figure in linguistics with his landmark work Syntactic Structures , which played a major role in remodeling the study of language .
+DT NN PRP VBD VBG IN NNP , CC IN CD VBD IN DT JJ NN IN NNS IN PRP$ NN NN NNP NNP , WDT VBD DT JJ NN IN VBG DT NN IN NN .
+B-NP I-NP B-NP B-VP I-VP B-PP B-NP O O B-PP B-NP B-VP B-PP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP I-NP I-NP B-PP B-VP B-NP I-NP I-NP I-NP O
+#
+emerge as
+a significant figure
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+10
+1959 Chomsky
+was
+a National Science Foundation fellow
+3
+5
+5
+6
+6
+11
+0.8059349168733777
+From 1958 to 1959 Chomsky was a National Science Foundation fellow at the Institute for Advanced Study .
+IN CD TO CD NNP VBD DT NNP NNP NNP NN IN DT NNP IN NNP NNP .
+B-PP B-NP B-PP B-NP I-NP B-VP B-NP I-NP I-NP I-NP I-NP B-PP B-NP I-NP B-PP B-NP I-NP O
+# chomsky
+be
+a national science foundation fellow
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+11
+He
+created
+
+0
+1
+1
+2
+2
+2
+0.5686197534868586
+He created or co-created the universal grammar theory , the generative grammar theory , the Chomsky hierarchy , and the minimalist program .
+PRP VBD CC VBD DT JJ NN NN , DT JJ NN NN , DT NNP NN , CC DT NN NN .
+B-NP B-VP I-VP I-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O O B-NP I-NP I-NP O
+he
+create
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+11
+He
+co-created
+the universal grammar theory
+0
+1
+3
+4
+4
+8
+0.8897524260653799
+He created or co-created the universal grammar theory , the generative grammar theory , the Chomsky hierarchy , and the minimalist program .
+PRP VBD CC VBD DT JJ NN NN , DT JJ NN NN , DT NNP NN , CC DT NN NN .
+B-NP B-VP I-VP I-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O O B-NP I-NP I-NP O
+he
+co-created
+the universal grammar theory
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+11
+He
+created
+
+0
+1
+1
+2
+2
+2
+0.5686197534868586
+He created or co-created the universal grammar theory , the generative grammar theory , the Chomsky hierarchy , and the minimalist program .
+PRP VBD CC VBD DT JJ NN NN , DT JJ NN NN , DT NNP NN , CC DT NN NN .
+B-NP B-VP I-VP I-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O O B-NP I-NP I-NP O
+he
+create
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+11
+He
+co-created
+the universal grammar theory
+0
+1
+3
+4
+4
+8
+0.8897524260653799
+He created or co-created the universal grammar theory , the generative grammar theory , the Chomsky hierarchy , and the minimalist program .
+PRP VBD CC VBD DT JJ NN NN , DT JJ NN NN , DT NNP NN , CC DT NN NN .
+B-NP B-VP I-VP I-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O O B-NP I-NP I-NP O
+he
+co-created
+the universal grammar theory
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+12
+Chomsky
+also played
+a pivotal role
+0
+1
+1
+3
+3
+6
+0.83021586012442
+Chomsky also played a pivotal role in the decline of linguistic behaviorism , and was particularly critical of the work of B. F. Skinner .
+NNP RB VBD DT JJ NN IN DT NN IN JJ NN , CC VBD RB JJ IN DT NN IN NNP NNP NNP .
+B-NP B-ADVP B-VP B-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP O O B-VP B-ADJP I-ADJP B-PP B-NP I-NP I-NP I-NP I-NP I-NP O
+chomsky
+play
+a pivotal role
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+12
+a pivotal role
+was particularly
+
+3
+6
+14
+16
+16
+16
+0.8305295636152279
+Chomsky also played a pivotal role in the decline of linguistic behaviorism , and was particularly critical of the work of B. F. Skinner .
+NNP RB VBD DT JJ NN IN DT NN IN JJ NN , CC VBD RB JJ IN DT NN IN NNP NNP NNP .
+B-NP B-ADVP B-VP B-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP O O B-VP B-ADJP I-ADJP B-PP B-NP I-NP I-NP I-NP I-NP I-NP O
+a pivotal role
+be
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+12
+Chomsky
+also played a pivotal role in
+the decline of linguistic behaviorism
+0
+1
+1
+7
+7
+12
+0.9593149532674733
+Chomsky also played a pivotal role in the decline of linguistic behaviorism , and was particularly critical of the work of B. F. Skinner .
+NNP RB VBD DT JJ NN IN DT NN IN JJ NN , CC VBD RB JJ IN DT NN IN NNP NNP NNP .
+B-NP B-ADVP B-VP B-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP O O B-VP B-ADJP I-ADJP B-PP B-NP I-NP I-NP I-NP I-NP I-NP O
+chomsky
+play role in
+the decline of linguistic behaviorism
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+12
+a pivotal role
+was particularly critical of
+the work of B. F. Skinner
+3
+6
+14
+18
+18
+24
+0.9108099246586847
+Chomsky also played a pivotal role in the decline of linguistic behaviorism , and was particularly critical of the work of B. F. Skinner .
+NNP RB VBD DT JJ NN IN DT NN IN JJ NN , CC VBD RB JJ IN DT NN IN NNP NNP NNP .
+B-NP B-ADVP B-VP B-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP O O B-VP B-ADJP I-ADJP B-PP B-NP I-NP I-NP I-NP I-NP I-NP O
+a pivotal role
+be critical of
+the work of b. f. skinner
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+13
+he
+saw as
+an act of American imperialism
+12
+13
+13
+15
+15
+20
+0.3019634332559544
+An outspoken opponent of U.S. involvement in the Vietnam War , which he saw as an act of American imperialism , in 1967 Chomsky rose to national attention for his anti-war essay " The Responsibility of Intellectuals " .
+DT JJ NN IN NNP NN IN DT NNP NNP , WDT PRP VBD IN DT NN IN NNP NN , IN CD NNP VBD TO JJ NN IN PRP$ JJ NN '' DT NN IN NNS '' .
+B-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP I-NP I-NP O B-NP B-NP B-VP B-PP B-NP I-NP I-NP I-NP I-NP O B-PP B-NP I-NP B-VP B-PP B-NP I-NP B-PP B-NP I-NP I-NP O B-NP I-NP I-NP I-NP O O
+he
+see as
+an act of american imperialism
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+13
+1967 Chomsky
+rose to
+national attention
+22
+24
+24
+26
+26
+28
+0.7418743921882112
+An outspoken opponent of U.S. involvement in the Vietnam War , which he saw as an act of American imperialism , in 1967 Chomsky rose to national attention for his anti-war essay " The Responsibility of Intellectuals " .
+DT JJ NN IN NNP NN IN DT NNP NNP , WDT PRP VBD IN DT NN IN NNP NN , IN CD NNP VBD TO JJ NN IN PRP$ JJ NN '' DT NN IN NNS '' .
+B-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP I-NP I-NP O B-NP B-NP B-VP B-PP B-NP I-NP I-NP I-NP I-NP O B-PP B-NP I-NP B-VP B-PP B-NP I-NP B-PP B-NP I-NP I-NP O B-NP I-NP I-NP I-NP O O
+# chomsky
+rise to
+national attention
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+13
+he
+saw as
+an act of American imperialism
+12
+13
+13
+15
+15
+20
+0.3019634332559544
+An outspoken opponent of U.S. involvement in the Vietnam War , which he saw as an act of American imperialism , in 1967 Chomsky rose to national attention for his anti-war essay " The Responsibility of Intellectuals " .
+DT JJ NN IN NNP NN IN DT NNP NNP , WDT PRP VBD IN DT NN IN NNP NN , IN CD NNP VBD TO JJ NN IN PRP$ JJ NN '' DT NN IN NNS '' .
+B-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP I-NP I-NP O B-NP B-NP B-VP B-PP B-NP I-NP I-NP I-NP I-NP O B-PP B-NP I-NP B-VP B-PP B-NP I-NP B-PP B-NP I-NP I-NP O B-NP I-NP I-NP I-NP O O
+he
+see as
+an act of american imperialism
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+13
+1967 Chomsky
+rose to
+national attention
+22
+24
+24
+26
+26
+28
+0.7418743921882112
+An outspoken opponent of U.S. involvement in the Vietnam War , which he saw as an act of American imperialism , in 1967 Chomsky rose to national attention for his anti-war essay " The Responsibility of Intellectuals " .
+DT JJ NN IN NNP NN IN DT NNP NNP , WDT PRP VBD IN DT NN IN NNP NN , IN CD NNP VBD TO JJ NN IN PRP$ JJ NN '' DT NN IN NNS '' .
+B-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP I-NP I-NP O B-NP B-NP B-VP B-PP B-NP I-NP I-NP I-NP I-NP O B-PP B-NP I-NP B-VP B-PP B-NP I-NP B-PP B-NP I-NP I-NP O B-NP I-NP I-NP I-NP O O
+# chomsky
+rise to
+national attention
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+14
+
+Becoming associated with
+the New Left
+0
+0
+0
+3
+3
+6
+0.9827025789792574
+Becoming associated with the New Left , he was arrested multiple times for his activism and placed on President Richard Nixon 's list of political opponents .
+VBG VBN IN DT NNP NNP , PRP VBD VBN JJ NNS IN PRP$ NN CC VBD IN NNP NNP NNP POS NN IN JJ NNS .
+B-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O
+
+become associate with
+the new left
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+14
+he
+was arrested
+multiple times
+7
+8
+8
+10
+10
+12
+0.47914948825770937
+Becoming associated with the New Left , he was arrested multiple times for his activism and placed on President Richard Nixon 's list of political opponents .
+VBG VBN IN DT NNP NNP , PRP VBD VBN JJ NNS IN PRP$ NN CC VBD IN NNP NNP NNP POS NN IN JJ NNS .
+B-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O
+he
+arrest
+multiple times
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+14
+multiple times
+placed on
+President Richard Nixon 's list of political opponents
+10
+12
+16
+18
+18
+26
+0.9647556754354087
+Becoming associated with the New Left , he was arrested multiple times for his activism and placed on President Richard Nixon 's list of political opponents .
+VBG VBN IN DT NNP NNP , PRP VBD VBN JJ NNS IN PRP$ NN CC VBD IN NNP NNP NNP POS NN IN JJ NNS .
+B-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O
+multiple times
+place on
+president richard nixon 's list of political opponents
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+14
+
+Becoming associated with
+the New Left
+0
+0
+0
+3
+3
+6
+0.9827025789792574
+Becoming associated with the New Left , he was arrested multiple times for his activism and placed on President Richard Nixon 's list of political opponents .
+VBG VBN IN DT NNP NNP , PRP VBD VBN JJ NNS IN PRP$ NN CC VBD IN NNP NNP NNP POS NN IN JJ NNS .
+B-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O
+
+become associate with
+the new left
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+14
+he
+was arrested multiple times for
+his activism
+7
+8
+8
+13
+13
+15
+0.7820278200953666
+Becoming associated with the New Left , he was arrested multiple times for his activism and placed on President Richard Nixon 's list of political opponents .
+VBG VBN IN DT NNP NNP , PRP VBD VBN JJ NNS IN PRP$ NN CC VBD IN NNP NNP NNP POS NN IN JJ NNS .
+B-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O
+he
+arrest time for
+his activism
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+14
+multiple times
+placed on
+President Richard Nixon 's list of political opponents
+10
+12
+16
+18
+18
+26
+0.9647556754354087
+Becoming associated with the New Left , he was arrested multiple times for his activism and placed on President Richard Nixon 's list of political opponents .
+VBG VBN IN DT NNP NNP , PRP VBD VBN JJ NNS IN PRP$ NN CC VBD IN NNP NNP NNP POS NN IN JJ NNS .
+B-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O
+multiple times
+place on
+president richard nixon 's list of political opponents
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+15
+
+expanding
+his work
+1
+1
+1
+2
+2
+4
+0.7428645683049414
+While expanding his work in linguistics over subsequent decades , he also became involved in the linguistics wars .
+IN VBG PRP$ NN IN NNS IN JJ NNS , PRP RB VBD VBN IN DT NNS NNS .
+B-PP B-VP B-NP I-NP B-PP B-NP B-PP B-NP I-NP O B-NP B-ADVP B-VP B-ADJP B-PP B-NP I-NP I-NP O
+
+expand
+his work
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+15
+he
+also became involved in
+the linguistics wars
+10
+11
+11
+15
+15
+18
+0.7428266237318528
+While expanding his work in linguistics over subsequent decades , he also became involved in the linguistics wars .
+IN VBG PRP$ NN IN NNS IN JJ NNS , PRP RB VBD VBN IN DT NNS NNS .
+B-PP B-VP B-NP I-NP B-PP B-NP B-PP B-NP I-NP O B-NP B-ADVP B-VP B-ADJP B-PP B-NP I-NP I-NP O
+he
+become involve in
+the linguistics wars
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+15
+
+expanding his work in
+linguistics
+1
+1
+1
+5
+5
+6
+0.7695352419732842
+While expanding his work in linguistics over subsequent decades , he also became involved in the linguistics wars .
+IN VBG PRP$ NN IN NNS IN JJ NNS , PRP RB VBD VBN IN DT NNS NNS .
+B-PP B-VP B-NP I-NP B-PP B-NP B-PP B-NP I-NP O B-NP B-ADVP B-VP B-ADJP B-PP B-NP I-NP I-NP O
+
+expand work in
+linguistics
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+15
+he
+also became involved in
+the linguistics wars
+10
+11
+11
+15
+15
+18
+0.7428266237318528
+While expanding his work in linguistics over subsequent decades , he also became involved in the linguistics wars .
+IN VBG PRP$ NN IN NNS IN JJ NNS , PRP RB VBD VBN IN DT NNS NNS .
+B-PP B-VP B-NP I-NP B-PP B-NP B-PP B-NP I-NP O B-NP B-ADVP B-VP B-ADJP B-PP B-NP I-NP I-NP O
+he
+become involve in
+the linguistics wars
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+16
+Chomsky
+later articulated
+the propaganda model of media criticism
+7
+8
+8
+10
+10
+16
+0.7043783176144114
+In collaboration with Edward S. Herman , Chomsky later articulated the propaganda model of media criticism in Manufacturing Consent , and worked to expose the Indonesian occupation of East Timor .
+IN NN IN NNP NNP NNP , NNP RB VBD DT NN NN IN NNS NN IN NNP NNP , CC VBD TO VB DT NNP NN IN NNP NNP .
+B-PP B-NP B-PP B-NP I-NP I-NP O B-NP B-ADVP B-VP B-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP I-NP O O B-VP I-VP I-VP B-NP I-NP I-NP I-NP I-NP I-NP O
+chomsky
+articulate
+the propaganda model of media criticism
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+16
+the propaganda model of media criticism
+worked to expose
+the Indonesian occupation of East Timor
+10
+16
+21
+24
+24
+30
+0.8241216006560556
+In collaboration with Edward S. Herman , Chomsky later articulated the propaganda model of media criticism in Manufacturing Consent , and worked to expose the Indonesian occupation of East Timor .
+IN NN IN NNP NNP NNP , NNP RB VBD DT NN NN IN NNS NN IN NNP NNP , CC VBD TO VB DT NNP NN IN NNP NNP .
+B-PP B-NP B-PP B-NP I-NP I-NP O B-NP B-ADVP B-VP B-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP I-NP O O B-VP I-VP I-VP B-NP I-NP I-NP I-NP I-NP I-NP O
+the propaganda model of media criticism
+work to expose
+the indonesian occupation of east timor
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+17
+
+including
+that of Holocaust denial
+8
+8
+8
+9
+9
+13
+0.9144758381692394
+His defense of unconditional freedom of speech , including that of Holocaust denial , generated significant controversy in the Faurisson affair of the 1980s .
+PRP$ NN IN JJ NN IN NN , VBG DT IN NNP NN , VBD JJ NN IN DT NNP NN IN DT CD .
+B-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-PP B-NP I-NP I-NP I-NP O B-VP B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP I-NP O
+
+include
+that of holocaust denial
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+17
+His defense of unconditional freedom of speech
+generated
+significant controversy
+0
+7
+14
+15
+15
+17
+0.7706412473879916
+His defense of unconditional freedom of speech , including that of Holocaust denial , generated significant controversy in the Faurisson affair of the 1980s .
+PRP$ NN IN JJ NN IN NN , VBG DT IN NNP NN , VBD JJ NN IN DT NNP NN IN DT CD .
+B-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-PP B-NP I-NP I-NP I-NP O B-VP B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP I-NP O
+his defense of unconditional freedom of speech
+generate
+significant controversy
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+17
+
+including that of
+Holocaust denial
+8
+8
+8
+11
+11
+13
+0.9368426146306172
+His defense of unconditional freedom of speech , including that of Holocaust denial , generated significant controversy in the Faurisson affair of the 1980s .
+PRP$ NN IN JJ NN IN NN , VBG DT IN NNP NN , VBD JJ NN IN DT NNP NN IN DT CD .
+B-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-PP B-NP I-NP I-NP I-NP O B-VP B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP I-NP O
+
+include of
+holocaust denial
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+17
+His defense of unconditional freedom of speech
+generated significant controversy in
+the Faurisson affair of the 1980s
+0
+7
+14
+18
+18
+24
+0.9087979491158611
+His defense of unconditional freedom of speech , including that of Holocaust denial , generated significant controversy in the Faurisson affair of the 1980s .
+PRP$ NN IN JJ NN IN NN , VBG DT IN NNP NN , VBD JJ NN IN DT NNP NN IN DT CD .
+B-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-PP B-NP I-NP I-NP I-NP O B-VP B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP I-NP O
+his defense of unconditional freedom of speech
+generate controversy in
+the faurisson affair of the #
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+18
+the Cambodian genocide
+also generated
+controversy
+4
+7
+7
+9
+9
+10
+0.7267536357139964
+Chomsky 's commentary on the Cambodian genocide also generated controversy .
+NNP POS NN IN DT JJ NN RB VBD NN .
+B-NP I-NP I-NP B-PP B-NP I-NP I-NP B-ADVP B-VP B-NP O
+the cambodian genocide
+generate
+controversy
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+18
+the Cambodian genocide
+also generated
+controversy
+4
+7
+7
+9
+9
+10
+0.7267536357139964
+Chomsky 's commentary on the Cambodian genocide also generated controversy .
+NNP POS NN IN DT JJ NN RB VBD NN .
+B-NP I-NP I-NP B-PP B-NP I-NP I-NP B-ADVP B-VP B-NP O
+the cambodian genocide
+generate
+controversy
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+19
+
+retiring from
+active teaching
+1
+1
+1
+3
+3
+5
+0.6813554050446128
+Since retiring from active teaching at MIT , he has continued his vocal political activism , including opposing the 2003 invasion of Iraq and supporting the Occupy movement .
+IN VBG IN JJ NN IN NNP , PRP VBZ VBN PRP$ JJ JJ NN , VBG VBG DT CD NN IN NNP CC VBG DT NNP NN .
+B-PP B-VP B-PP B-NP I-NP B-PP B-NP O B-NP B-VP I-VP B-NP I-NP I-NP I-NP O B-PP B-VP B-NP I-NP I-NP I-NP I-NP O B-VP B-NP I-NP I-NP O
+
+retire from
+active teaching
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+19
+he
+has continued
+his vocal political activism
+8
+9
+9
+11
+11
+15
+0.7491514672935233
+Since retiring from active teaching at MIT , he has continued his vocal political activism , including opposing the 2003 invasion of Iraq and supporting the Occupy movement .
+IN VBG IN JJ NN IN NNP , PRP VBZ VBN PRP$ JJ JJ NN , VBG VBG DT CD NN IN NNP CC VBG DT NNP NN .
+B-PP B-VP B-PP B-NP I-NP B-PP B-NP O B-NP B-VP I-VP B-NP I-NP I-NP I-NP O B-PP B-VP B-NP I-NP I-NP I-NP I-NP O B-VP B-NP I-NP I-NP O
+he
+continue
+his vocal political activism
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+19
+he
+including opposing
+the 2003 invasion of Iraq
+8
+9
+16
+18
+18
+23
+0.495130627122627
+Since retiring from active teaching at MIT , he has continued his vocal political activism , including opposing the 2003 invasion of Iraq and supporting the Occupy movement .
+IN VBG IN JJ NN IN NNP , PRP VBZ VBN PRP$ JJ JJ NN , VBG VBG DT CD NN IN NNP CC VBG DT NNP NN .
+B-PP B-VP B-PP B-NP I-NP B-PP B-NP O B-NP B-VP I-VP B-NP I-NP I-NP I-NP O B-PP B-VP B-NP I-NP I-NP I-NP I-NP O B-VP B-NP I-NP I-NP O
+he
+include oppose
+the # invasion of iraq
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+19
+his vocal political activism
+supporting
+the Occupy movement
+11
+15
+24
+25
+25
+28
+0.8558598679679268
+Since retiring from active teaching at MIT , he has continued his vocal political activism , including opposing the 2003 invasion of Iraq and supporting the Occupy movement .
+IN VBG IN JJ NN IN NNP , PRP VBZ VBN PRP$ JJ JJ NN , VBG VBG DT CD NN IN NNP CC VBG DT NNP NN .
+B-PP B-VP B-PP B-NP I-NP B-PP B-NP O B-NP B-VP I-VP B-NP I-NP I-NP I-NP O B-PP B-VP B-NP I-NP I-NP I-NP I-NP O B-VP B-NP I-NP I-NP O
+his vocal political activism
+support
+the occupy movement
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+19
+
+retiring from
+active teaching
+1
+1
+1
+3
+3
+5
+0.6813554050446128
+Since retiring from active teaching at MIT , he has continued his vocal political activism , including opposing the 2003 invasion of Iraq and supporting the Occupy movement .
+IN VBG IN JJ NN IN NNP , PRP VBZ VBN PRP$ JJ JJ NN , VBG VBG DT CD NN IN NNP CC VBG DT NNP NN .
+B-PP B-VP B-PP B-NP I-NP B-PP B-NP O B-NP B-VP I-VP B-NP I-NP I-NP I-NP O B-PP B-VP B-NP I-NP I-NP I-NP I-NP O B-VP B-NP I-NP I-NP O
+
+retire from
+active teaching
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+19
+he
+has continued
+his vocal political activism
+8
+9
+9
+11
+11
+15
+0.7491514672935233
+Since retiring from active teaching at MIT , he has continued his vocal political activism , including opposing the 2003 invasion of Iraq and supporting the Occupy movement .
+IN VBG IN JJ NN IN NNP , PRP VBZ VBN PRP$ JJ JJ NN , VBG VBG DT CD NN IN NNP CC VBG DT NNP NN .
+B-PP B-VP B-PP B-NP I-NP B-PP B-NP O B-NP B-VP I-VP B-NP I-NP I-NP I-NP O B-PP B-VP B-NP I-NP I-NP I-NP I-NP O B-VP B-NP I-NP I-NP O
+he
+continue
+his vocal political activism
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+19
+his vocal political activism
+supporting
+the Occupy movement
+11
+15
+24
+25
+25
+28
+0.8558598679679268
+Since retiring from active teaching at MIT , he has continued his vocal political activism , including opposing the 2003 invasion of Iraq and supporting the Occupy movement .
+IN VBG IN JJ NN IN NNP , PRP VBZ VBN PRP$ JJ JJ NN , VBG VBG DT CD NN IN NNP CC VBG DT NNP NN .
+B-PP B-VP B-PP B-NP I-NP B-PP B-NP O B-NP B-VP I-VP B-NP I-NP I-NP I-NP O B-PP B-VP B-NP I-NP I-NP I-NP I-NP O B-VP B-NP I-NP I-NP O
+his vocal political activism
+support
+the occupy movement
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+20
+Chomsky
+began teaching at
+the University of Arizona
+0
+1
+1
+4
+4
+8
+0.8750951574577394
+Chomsky began teaching at the University of Arizona in 2017 .
+NNP VBD VBG IN DT NNP IN NNP IN CD .
+B-NP B-VP I-VP B-PP B-NP I-NP I-NP I-NP B-PP B-NP O
+chomsky
+begin teach at
+the university of arizona
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+20
+Chomsky
+began teaching at
+the University of Arizona
+0
+1
+1
+4
+4
+8
+0.8750951574577394
+Chomsky began teaching at the University of Arizona in 2017 .
+NNP VBD VBG IN DT NNP IN NNP IN CD .
+B-NP B-VP I-VP B-PP B-NP I-NP I-NP I-NP B-PP B-NP O
+chomsky
+begin teach at
+the university of arizona
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+21
+the cognitive revolution
+contributing to
+the development of a new cognitivistic framework
+9
+12
+17
+19
+19
+26
+0.4299203154372939
+Chomsky is widely recognized as having helped to spark the cognitive revolution in the human sciences , contributing to the development of a new cognitivistic framework for the study of language and the mind .
+NNP VBZ RB VBN IN VBG VBN TO VB DT JJ NN IN DT JJ NNS , VBG TO DT NN IN DT JJ JJ NN IN DT NN IN NN CC DT NN .
+B-NP B-VP I-VP I-VP B-PP B-VP I-VP I-VP I-VP B-NP I-NP I-NP B-PP B-NP I-NP I-NP O B-PP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP O B-NP I-NP O
+the cognitive revolution
+contribute to
+the development of a new cognitivistic framework
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+21
+the cognitive revolution
+contributing to
+the development of a new cognitivistic framework
+9
+12
+17
+19
+19
+26
+0.4299203154372939
+Chomsky is widely recognized as having helped to spark the cognitive revolution in the human sciences , contributing to the development of a new cognitivistic framework for the study of language and the mind .
+NNP VBZ RB VBN IN VBG VBN TO VB DT JJ NN IN DT JJ NNS , VBG TO DT NN IN DT JJ JJ NN IN DT NN IN NN CC DT NN .
+B-NP B-VP I-VP I-VP B-PP B-VP I-VP I-VP I-VP B-NP I-NP I-NP B-PP B-NP I-NP I-NP O B-PP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP O B-NP I-NP O
+the cognitive revolution
+contribute to
+the development of a new cognitivistic framework
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+22
+Chomsky
+remains
+a leading critic of U.S. foreign policy
+0
+1
+1
+2
+2
+9
+0.9772778431580308
+Chomsky remains a leading critic of U.S. foreign policy , contemporary capitalism , U.S. involvement and Israel 's role in the Israeli– Palestinian conflict , and mass media .
+NNP VBZ DT VBG NN IN NNP JJ NN , JJ NN , NNP NN CC NNP POS NN IN DT NNP NNP NN , CC NN NNS .
+B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP I-NP O B-NP I-NP O B-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP O O B-NP I-NP O
+chomsky
+remain
+a leading critic of u.s. foreign policy
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+22
+a
+leading
+
+2
+3
+3
+4
+4
+4
+0.5981343879299316
+Chomsky remains a leading critic of U.S. foreign policy , contemporary capitalism , U.S. involvement and Israel 's role in the Israeli– Palestinian conflict , and mass media .
+NNP VBZ DT VBG NN IN NNP JJ NN , JJ NN , NNP NN CC NNP POS NN IN DT NNP NNP NN , CC NN NNS .
+B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP I-NP O B-NP I-NP O B-NP I-NP I-NP B-PP B-NP I-NP I-NP I-NP O O B-NP I-NP O
+a
+lead
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+23
+his ideas
+are highly
+
+2
+4
+4
+6
+6
+6
+0.6854857636938799
+Chomsky and his ideas are highly influential in the anti-capitalist and anti-imperialist movements .
+NNP CC PRP$ NNS VBP RB JJ IN DT JJ CC JJ NNS .
+B-NP O B-NP I-NP B-VP B-ADJP I-ADJP B-PP B-NP I-NP I-NP I-NP I-NP O
+his ideas
+be
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+23
+his ideas
+are highly influential in
+the anti-capitalist and anti-imperialist movements
+2
+4
+4
+8
+8
+13
+0.7526556009942249
+Chomsky and his ideas are highly influential in the anti-capitalist and anti-imperialist movements .
+NNP CC PRP$ NNS VBP RB JJ IN DT JJ CC JJ NNS .
+B-NP O B-NP I-NP B-VP B-ADJP I-ADJP B-PP B-NP I-NP I-NP I-NP I-NP O
+his ideas
+be influential in
+the anti-capitalist and anti-imperialist movements
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+24
+The basis of Chomsky 's linguistic theory
+lies in
+biolinguistics
+0
+7
+7
+9
+9
+10
+0.8493663628693938
+The basis of Chomsky 's linguistic theory lies in biolinguistics , the linguistic school that holds that the principles underpinning the structure of language are biologically preset in the human mind and hence genetically inherited .
+DT NN IN NNP POS JJ NN VBZ IN NNS , DT JJ NN IN VBZ IN DT NNS VBG DT NN IN NN VBP RB VB IN DT JJ NN CC RB RB VBN .
+B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-VP B-PP B-NP O B-NP I-NP I-NP B-NP B-VP B-SBAR B-NP I-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-VP I-VP I-VP O
+the basis of chomsky 's linguistic theory
+lie in
+biolinguistics
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+24
+the principles
+underpinning
+the structure of language
+17
+19
+19
+20
+20
+24
+0.14611704349902016
+The basis of Chomsky 's linguistic theory lies in biolinguistics , the linguistic school that holds that the principles underpinning the structure of language are biologically preset in the human mind and hence genetically inherited .
+DT NN IN NNP POS JJ NN VBZ IN NNS , DT JJ NN IN VBZ IN DT NNS VBG DT NN IN NN VBP RB VB IN DT JJ NN CC RB RB VBN .
+B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-VP B-PP B-NP O B-NP I-NP I-NP B-NP B-VP B-SBAR B-NP I-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-VP I-VP I-VP O
+the principles
+underpin
+the structure of language
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+24
+the structure of language
+are biologically preset in
+the human mind
+20
+24
+24
+28
+28
+31
+0.5540215548044816
+The basis of Chomsky 's linguistic theory lies in biolinguistics , the linguistic school that holds that the principles underpinning the structure of language are biologically preset in the human mind and hence genetically inherited .
+DT NN IN NNP POS JJ NN VBZ IN NNS , DT JJ NN IN VBZ IN DT NNS VBG DT NN IN NN VBP RB VB IN DT JJ NN CC RB RB VBN .
+B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-VP B-PP B-NP O B-NP I-NP I-NP B-NP B-VP B-SBAR B-NP I-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-VP I-VP I-VP O
+the structure of language
+preset in
+the human mind
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+24
+the human mind
+genetically inherited
+
+28
+31
+33
+35
+35
+35
+0.769464683459658
+The basis of Chomsky 's linguistic theory lies in biolinguistics , the linguistic school that holds that the principles underpinning the structure of language are biologically preset in the human mind and hence genetically inherited .
+DT NN IN NNP POS JJ NN VBZ IN NNS , DT JJ NN IN VBZ IN DT NNS VBG DT NN IN NN VBP RB VB IN DT JJ NN CC RB RB VBN .
+B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-VP B-PP B-NP O B-NP I-NP I-NP B-NP B-VP B-SBAR B-NP I-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-VP I-VP I-VP O
+the human mind
+inherit
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+24
+The basis of Chomsky 's linguistic theory
+lies in
+biolinguistics
+0
+7
+7
+9
+9
+10
+0.8493663628693938
+The basis of Chomsky 's linguistic theory lies in biolinguistics , the linguistic school that holds that the principles underpinning the structure of language are biologically preset in the human mind and hence genetically inherited .
+DT NN IN NNP POS JJ NN VBZ IN NNS , DT JJ NN IN VBZ IN DT NNS VBG DT NN IN NN VBP RB VB IN DT JJ NN CC RB RB VBN .
+B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-VP B-PP B-NP O B-NP I-NP I-NP B-NP B-VP B-SBAR B-NP I-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-VP I-VP I-VP O
+the basis of chomsky 's linguistic theory
+lie in
+biolinguistics
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+24
+the structure of language
+are biologically preset in
+the human mind
+20
+24
+24
+28
+28
+31
+0.5540215548044816
+The basis of Chomsky 's linguistic theory lies in biolinguistics , the linguistic school that holds that the principles underpinning the structure of language are biologically preset in the human mind and hence genetically inherited .
+DT NN IN NNP POS JJ NN VBZ IN NNS , DT JJ NN IN VBZ IN DT NNS VBG DT NN IN NN VBP RB VB IN DT JJ NN CC RB RB VBN .
+B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-VP B-PP B-NP O B-NP I-NP I-NP B-NP B-VP B-SBAR B-NP I-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-VP I-VP I-VP O
+the structure of language
+preset in
+the human mind
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+24
+the human mind
+genetically inherited
+
+28
+31
+33
+35
+35
+35
+0.769464683459658
+The basis of Chomsky 's linguistic theory lies in biolinguistics , the linguistic school that holds that the principles underpinning the structure of language are biologically preset in the human mind and hence genetically inherited .
+DT NN IN NNP POS JJ NN VBZ IN NNS , DT JJ NN IN VBZ IN DT NNS VBG DT NN IN NN VBP RB VB IN DT JJ NN CC RB RB VBN .
+B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-VP B-PP B-NP O B-NP I-NP I-NP B-NP B-VP B-SBAR B-NP I-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-VP I-VP I-VP O
+the human mind
+inherit
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+25
+all humans
+share
+the same underlying linguistic structure
+3
+5
+5
+6
+6
+11
+0.32540596194483284
+He argues that all humans share the same underlying linguistic structure , irrespective of sociocultural differences .
+PRP VBZ IN DT NNS VBP DT JJ JJ JJ NN , JJ IN JJ NNS .
+B-NP B-VP B-SBAR B-NP I-NP B-VP B-NP I-NP I-NP I-NP I-NP O B-ADJP B-PP B-NP I-NP O
+all humans
+share
+the same underlying linguistic structure
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+25
+all humans
+share
+the same underlying linguistic structure
+3
+5
+5
+6
+6
+11
+0.32540596194483284
+He argues that all humans share the same underlying linguistic structure , irrespective of sociocultural differences .
+PRP VBZ IN DT NNS VBP DT JJ JJ JJ NN , JJ IN JJ NNS .
+B-NP B-VP B-SBAR B-NP I-NP B-VP B-NP I-NP I-NP I-NP I-NP O B-ADJP B-PP B-NP I-NP O
+all humans
+share
+the same underlying linguistic structure
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+26
+
+adopting
+this position
+1
+1
+1
+2
+2
+4
+0.5784294700710157
+In adopting this position Chomsky rejects the radical behaviorist psychology of B. F. Skinner , who viewed speech , thought , and all behavior as a completely learned product of the interactions between organisms and their environments .
+IN VBG DT NN NNP VBZ DT JJ NN NN IN NNP NNP NNP , WP VBD NN , VBD , CC DT NN IN DT RB JJ NN IN DT NNS IN NNS CC PRP$ NNS .
+B-PP B-VP B-NP I-NP B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP O B-VP O O B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP O B-NP I-NP O
+
+adopt
+this position
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+26
+Chomsky
+rejects
+the radical behaviorist psychology of B. F. Skinner
+4
+5
+5
+6
+6
+14
+0.7117957484458634
+In adopting this position Chomsky rejects the radical behaviorist psychology of B. F. Skinner , who viewed speech , thought , and all behavior as a completely learned product of the interactions between organisms and their environments .
+IN VBG DT NN NNP VBZ DT JJ NN NN IN NNP NNP NNP , WP VBD NN , VBD , CC DT NN IN DT RB JJ NN IN DT NNS IN NNS CC PRP$ NNS .
+B-PP B-VP B-NP I-NP B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP O B-VP O O B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP O B-NP I-NP O
+chomsky
+reject
+the radical behaviorist psychology of b. f. skinner
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+26
+the radical behaviorist psychology of B. F. Skinner
+viewed
+speech
+6
+14
+16
+17
+17
+18
+0.6500920174824967
+In adopting this position Chomsky rejects the radical behaviorist psychology of B. F. Skinner , who viewed speech , thought , and all behavior as a completely learned product of the interactions between organisms and their environments .
+IN VBG DT NN NNP VBZ DT JJ NN NN IN NNP NNP NNP , WP VBD NN , VBD , CC DT NN IN DT RB JJ NN IN DT NNS IN NNS CC PRP$ NNS .
+B-PP B-VP B-NP I-NP B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP O B-VP O O B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP O B-NP I-NP O
+the radical behaviorist psychology of b. f. skinner
+view
+speech
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+26
+the radical behaviorist psychology of B. F. Skinner
+thought
+
+6
+14
+19
+20
+20
+20
+0.5857511075402895
+In adopting this position Chomsky rejects the radical behaviorist psychology of B. F. Skinner , who viewed speech , thought , and all behavior as a completely learned product of the interactions between organisms and their environments .
+IN VBG DT NN NNP VBZ DT JJ NN NN IN NNP NNP NNP , WP VBD NN , VBD , CC DT NN IN DT RB JJ NN IN DT NNS IN NNS CC PRP$ NNS .
+B-PP B-VP B-NP I-NP B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP O B-VP O O B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP O B-NP I-NP O
+the radical behaviorist psychology of b. f. skinner
+think
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+26
+
+adopting
+this position
+1
+1
+1
+2
+2
+4
+0.5784294700710157
+In adopting this position Chomsky rejects the radical behaviorist psychology of B. F. Skinner , who viewed speech , thought , and all behavior as a completely learned product of the interactions between organisms and their environments .
+IN VBG DT NN NNP VBZ DT JJ NN NN IN NNP NNP NNP , WP VBD NN , VBD , CC DT NN IN DT RB JJ NN IN DT NNS IN NNS CC PRP$ NNS .
+B-PP B-VP B-NP I-NP B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP O B-VP O O B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP O B-NP I-NP O
+
+adopt
+this position
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+26
+the radical behaviorist psychology of B. F. Skinner
+viewed
+speech
+6
+14
+16
+17
+17
+18
+0.6500920174824967
+In adopting this position Chomsky rejects the radical behaviorist psychology of B. F. Skinner , who viewed speech , thought , and all behavior as a completely learned product of the interactions between organisms and their environments .
+IN VBG DT NN NNP VBZ DT JJ NN NN IN NNP NNP NNP , WP VBD NN , VBD , CC DT NN IN DT RB JJ NN IN DT NNS IN NNS CC PRP$ NNS .
+B-PP B-VP B-NP I-NP B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP O B-VP O O B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP O B-NP I-NP O
+the radical behaviorist psychology of b. f. skinner
+view
+speech
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+26
+the radical behaviorist psychology of B. F. Skinner
+thought
+
+6
+14
+19
+20
+20
+20
+0.5857511075402895
+In adopting this position Chomsky rejects the radical behaviorist psychology of B. F. Skinner , who viewed speech , thought , and all behavior as a completely learned product of the interactions between organisms and their environments .
+IN VBG DT NN NNP VBZ DT JJ NN NN IN NNP NNP NNP , WP VBD NN , VBD , CC DT NN IN DT RB JJ NN IN DT NNS IN NNS CC PRP$ NNS .
+B-PP B-VP B-NP I-NP B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP B-VP B-NP O B-VP O O B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-PP B-NP O B-NP I-NP O
+the radical behaviorist psychology of b. f. skinner
+think
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+27
+language
+is
+a unique evolutionary development of the human species
+5
+6
+6
+7
+7
+15
+0.28768753153959453
+Accordingly , Chomsky argues that language is a unique evolutionary development of the human species and distinguished from modes of communication used by any other animal species .
+RB , NNP VBZ IN NN VBZ DT JJ JJ NN IN DT JJ NNS CC VBN IN NNS IN NN VBN IN DT JJ NN NNS .
+B-ADVP O B-NP B-VP B-SBAR B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-VP B-PP B-NP I-NP I-NP B-VP B-PP B-NP I-NP I-NP I-NP O
+language
+be
+a unique evolutionary development of the human species
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+27
+language
+distinguished from
+modes of communication
+5
+6
+16
+18
+18
+21
+0.1431530887546852
+Accordingly , Chomsky argues that language is a unique evolutionary development of the human species and distinguished from modes of communication used by any other animal species .
+RB , NNP VBZ IN NN VBZ DT JJ JJ NN IN DT JJ NNS CC VBN IN NNS IN NN VBN IN DT JJ NN NNS .
+B-ADVP O B-NP B-VP B-SBAR B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-VP B-PP B-NP I-NP I-NP B-VP B-PP B-NP I-NP I-NP I-NP O
+language
+distinguish from
+modes of communication
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+27
+modes of communication
+used by
+any other animal species
+18
+21
+21
+23
+23
+27
+0.5759786479323098
+Accordingly , Chomsky argues that language is a unique evolutionary development of the human species and distinguished from modes of communication used by any other animal species .
+RB , NNP VBZ IN NN VBZ DT JJ JJ NN IN DT JJ NNS CC VBN IN NNS IN NN VBN IN DT JJ NN NNS .
+B-ADVP O B-NP B-VP B-SBAR B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-VP B-PP B-NP I-NP I-NP B-VP B-PP B-NP I-NP I-NP I-NP O
+modes of communication
+use by
+any other animal species
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+27
+language
+is a unique evolutionary development of
+the human species
+5
+6
+6
+12
+12
+15
+0.3590917576047363
+Accordingly , Chomsky argues that language is a unique evolutionary development of the human species and distinguished from modes of communication used by any other animal species .
+RB , NNP VBZ IN NN VBZ DT JJ JJ NN IN DT JJ NNS CC VBN IN NNS IN NN VBN IN DT JJ NN NNS .
+B-ADVP O B-NP B-VP B-SBAR B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-VP B-PP B-NP I-NP I-NP B-VP B-PP B-NP I-NP I-NP I-NP O
+language
+be development of
+the human species
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+27
+language
+distinguished from
+modes of communication
+5
+6
+16
+18
+18
+21
+0.1431530887546852
+Accordingly , Chomsky argues that language is a unique evolutionary development of the human species and distinguished from modes of communication used by any other animal species .
+RB , NNP VBZ IN NN VBZ DT JJ JJ NN IN DT JJ NNS CC VBN IN NNS IN NN VBN IN DT JJ NN NNS .
+B-ADVP O B-NP B-VP B-SBAR B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-VP B-PP B-NP I-NP I-NP B-VP B-PP B-NP I-NP I-NP I-NP O
+language
+distinguish from
+modes of communication
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+27
+modes of communication
+used by
+any other animal species
+18
+21
+21
+23
+23
+27
+0.5759786479323098
+Accordingly , Chomsky argues that language is a unique evolutionary development of the human species and distinguished from modes of communication used by any other animal species .
+RB , NNP VBZ IN NN VBZ DT JJ JJ NN IN DT JJ NNS CC VBN IN NNS IN NN VBN IN DT JJ NN NNS .
+B-ADVP O B-NP B-VP B-SBAR B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-VP B-PP B-NP I-NP I-NP B-VP B-PP B-NP I-NP I-NP I-NP O
+modes of communication
+use by
+any other animal species
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+28
+internalist view of language
+is
+
+6
+10
+10
+11
+11
+11
+0.28383063815048537
+Chomsky argues that his nativist , internalist view of language is consistent with the philosophical school of " rationalism " and contrasts with the anti-nativist , externalist view of language consistent with the philosophical school of " empiricism " , which contends that all knowledge , including language , comes from external stimuli .
+NNP VBZ IN PRP$ NN , JJ NN IN NN VBZ JJ IN DT JJ NN IN `` NN '' CC VBZ IN DT JJ , JJ NN IN NN JJ IN DT JJ NN IN `` NN '' , WDT VBZ IN DT NN , VBG NN , VBZ IN JJ NNS .
+B-NP B-VP O B-NP I-NP O B-NP I-NP I-NP I-NP B-VP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-NP B-VP B-PP B-NP I-NP O B-PP B-NP O B-VP B-PP B-NP I-NP O
+internalist view of language
+be
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+28
+rationalism
+contrasts with
+the anti-nativist , externalist view of language
+18
+19
+21
+23
+23
+30
+0.4160363017975682
+Chomsky argues that his nativist , internalist view of language is consistent with the philosophical school of " rationalism " and contrasts with the anti-nativist , externalist view of language consistent with the philosophical school of " empiricism " , which contends that all knowledge , including language , comes from external stimuli .
+NNP VBZ IN PRP$ NN , JJ NN IN NN VBZ JJ IN DT JJ NN IN `` NN '' CC VBZ IN DT JJ , JJ NN IN NN JJ IN DT JJ NN IN `` NN '' , WDT VBZ IN DT NN , VBG NN , VBZ IN JJ NNS .
+B-NP B-VP O B-NP I-NP O B-NP I-NP I-NP I-NP B-VP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-NP B-VP B-PP B-NP I-NP O B-PP B-NP O B-VP B-PP B-NP I-NP O
+rationalism
+contrast with
+the anti-nativist , externalist view of language
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+28
+empiricism
+including
+language
+37
+38
+46
+47
+47
+48
+0.5039678010089739
+Chomsky argues that his nativist , internalist view of language is consistent with the philosophical school of " rationalism " and contrasts with the anti-nativist , externalist view of language consistent with the philosophical school of " empiricism " , which contends that all knowledge , including language , comes from external stimuli .
+NNP VBZ IN PRP$ NN , JJ NN IN NN VBZ JJ IN DT JJ NN IN `` NN '' CC VBZ IN DT JJ , JJ NN IN NN JJ IN DT JJ NN IN `` NN '' , WDT VBZ IN DT NN , VBG NN , VBZ IN JJ NNS .
+B-NP B-VP O B-NP I-NP O B-NP I-NP I-NP I-NP B-VP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-NP B-VP B-PP B-NP I-NP O B-PP B-NP O B-VP B-PP B-NP I-NP O
+empiricism
+include
+language
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+28
+all knowledge
+comes from
+external stimuli
+43
+45
+49
+51
+51
+53
+0.2784100600660587
+Chomsky argues that his nativist , internalist view of language is consistent with the philosophical school of " rationalism " and contrasts with the anti-nativist , externalist view of language consistent with the philosophical school of " empiricism " , which contends that all knowledge , including language , comes from external stimuli .
+NNP VBZ IN PRP$ NN , JJ NN IN NN VBZ JJ IN DT JJ NN IN `` NN '' CC VBZ IN DT JJ , JJ NN IN NN JJ IN DT JJ NN IN `` NN '' , WDT VBZ IN DT NN , VBG NN , VBZ IN JJ NNS .
+B-NP B-VP O B-NP I-NP O B-NP I-NP I-NP I-NP B-VP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-NP B-VP B-PP B-NP I-NP O B-PP B-NP O B-VP B-PP B-NP I-NP O
+all knowledge
+come from
+external stimuli
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+28
+internalist view of language
+is consistent with
+the philosophical school
+6
+10
+10
+13
+13
+16
+0.3842578308270819
+Chomsky argues that his nativist , internalist view of language is consistent with the philosophical school of " rationalism " and contrasts with the anti-nativist , externalist view of language consistent with the philosophical school of " empiricism " , which contends that all knowledge , including language , comes from external stimuli .
+NNP VBZ IN PRP$ NN , JJ NN IN NN VBZ JJ IN DT JJ NN IN `` NN '' CC VBZ IN DT JJ , JJ NN IN NN JJ IN DT JJ NN IN `` NN '' , WDT VBZ IN DT NN , VBG NN , VBZ IN JJ NNS .
+B-NP B-VP O B-NP I-NP O B-NP I-NP I-NP I-NP B-VP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-NP B-VP B-PP B-NP I-NP O B-PP B-NP O B-VP B-PP B-NP I-NP O
+internalist view of language
+be consistent with
+the philosophical school
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+28
+rationalism
+contrasts with
+the anti-nativist , externalist view of language
+18
+19
+21
+23
+23
+30
+0.4160363017975682
+Chomsky argues that his nativist , internalist view of language is consistent with the philosophical school of " rationalism " and contrasts with the anti-nativist , externalist view of language consistent with the philosophical school of " empiricism " , which contends that all knowledge , including language , comes from external stimuli .
+NNP VBZ IN PRP$ NN , JJ NN IN NN VBZ JJ IN DT JJ NN IN `` NN '' CC VBZ IN DT JJ , JJ NN IN NN JJ IN DT JJ NN IN `` NN '' , WDT VBZ IN DT NN , VBG NN , VBZ IN JJ NNS .
+B-NP B-VP O B-NP I-NP O B-NP I-NP I-NP I-NP B-VP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-NP B-VP B-PP B-NP I-NP O B-PP B-NP O B-VP B-PP B-NP I-NP O
+rationalism
+contrast with
+the anti-nativist , externalist view of language
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+28
+empiricism
+including
+language
+37
+38
+46
+47
+47
+48
+0.5039678010089739
+Chomsky argues that his nativist , internalist view of language is consistent with the philosophical school of " rationalism " and contrasts with the anti-nativist , externalist view of language consistent with the philosophical school of " empiricism " , which contends that all knowledge , including language , comes from external stimuli .
+NNP VBZ IN PRP$ NN , JJ NN IN NN VBZ JJ IN DT JJ NN IN `` NN '' CC VBZ IN DT JJ , JJ NN IN NN JJ IN DT JJ NN IN `` NN '' , WDT VBZ IN DT NN , VBG NN , VBZ IN JJ NNS .
+B-NP B-VP O B-NP I-NP O B-NP I-NP I-NP I-NP B-VP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-NP B-VP B-PP B-NP I-NP O B-PP B-NP O B-VP B-PP B-NP I-NP O
+empiricism
+include
+language
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+28
+all knowledge
+comes from
+external stimuli
+43
+45
+49
+51
+51
+53
+0.2784100600660587
+Chomsky argues that his nativist , internalist view of language is consistent with the philosophical school of " rationalism " and contrasts with the anti-nativist , externalist view of language consistent with the philosophical school of " empiricism " , which contends that all knowledge , including language , comes from external stimuli .
+NNP VBZ IN PRP$ NN , JJ NN IN NN VBZ JJ IN DT JJ NN IN `` NN '' CC VBZ IN DT JJ , JJ NN IN NN JJ IN DT JJ NN IN `` NN '' , WDT VBZ IN DT NN , VBG NN , VBZ IN JJ NNS .
+B-NP B-VP O B-NP I-NP O B-NP I-NP I-NP I-NP B-VP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-VP B-PP B-NP I-NP I-NP I-NP I-NP I-NP I-NP B-ADJP B-PP B-NP I-NP I-NP B-PP O B-NP O O B-NP B-VP B-PP B-NP I-NP O B-PP B-NP O B-VP B-PP B-NP I-NP O
+all knowledge
+come from
+external stimuli
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+29
+Historians
+have disputed
+Chomsky 's claim
+0
+1
+1
+3
+3
+6
+0.8277939944523534
+Historians have disputed Chomsky 's claim about rationalism on the basis that his theory of innate grammar excludes propositional knowledge and instead focuses on innate learning capacities or structures .
+NNS VBP VBN NNP POS NN IN NN IN DT NN IN PRP$ NN IN JJ NN VBZ JJ NN CC RB VBZ IN JJ NN NNS CC NNS .
+B-NP B-VP I-VP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP B-VP B-NP I-NP O B-ADVP B-VP B-PP B-NP I-NP I-NP I-NP I-NP O
+historians
+dispute
+chomsky 's claim
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+29
+his theory of innate grammar
+excludes
+propositional knowledge
+12
+17
+17
+18
+18
+20
+0.48205892126676736
+Historians have disputed Chomsky 's claim about rationalism on the basis that his theory of innate grammar excludes propositional knowledge and instead focuses on innate learning capacities or structures .
+NNS VBP VBN NNP POS NN IN NN IN DT NN IN PRP$ NN IN JJ NN VBZ JJ NN CC RB VBZ IN JJ NN NNS CC NNS .
+B-NP B-VP I-VP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP B-VP B-NP I-NP O B-ADVP B-VP B-PP B-NP I-NP I-NP I-NP I-NP O
+his theory of innate grammar
+exclude
+propositional knowledge
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+29
+his theory of innate grammar
+instead focuses on
+innate learning capacities or structures
+12
+17
+21
+24
+24
+29
+0.8150679200478234
+Historians have disputed Chomsky 's claim about rationalism on the basis that his theory of innate grammar excludes propositional knowledge and instead focuses on innate learning capacities or structures .
+NNS VBP VBN NNP POS NN IN NN IN DT NN IN PRP$ NN IN JJ NN VBZ JJ NN CC RB VBZ IN JJ NN NNS CC NNS .
+B-NP B-VP I-VP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP B-VP B-NP I-NP O B-ADVP B-VP B-PP B-NP I-NP I-NP I-NP I-NP O
+his theory of innate grammar
+focus on
+innate learning capacities or structures
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+29
+his theory of innate grammar
+excludes
+propositional knowledge
+12
+17
+17
+18
+18
+20
+0.48205892126676736
+Historians have disputed Chomsky 's claim about rationalism on the basis that his theory of innate grammar excludes propositional knowledge and instead focuses on innate learning capacities or structures .
+NNS VBP VBN NNP POS NN IN NN IN DT NN IN PRP$ NN IN JJ NN VBZ JJ NN CC RB VBZ IN JJ NN NNS CC NNS .
+B-NP B-VP I-VP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP B-VP B-NP I-NP O B-ADVP B-VP B-PP B-NP I-NP I-NP I-NP I-NP O
+his theory of innate grammar
+exclude
+propositional knowledge
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+29
+his theory of innate grammar
+instead focuses on
+innate learning capacities or structures
+12
+17
+21
+24
+24
+29
+0.8150679200478234
+Historians have disputed Chomsky 's claim about rationalism on the basis that his theory of innate grammar excludes propositional knowledge and instead focuses on innate learning capacities or structures .
+NNS VBP VBN NNP POS NN IN NN IN DT NN IN PRP$ NN IN JJ NN VBZ JJ NN CC RB VBZ IN JJ NN NNS CC NNS .
+B-NP B-VP I-VP B-NP I-NP I-NP B-PP B-NP B-PP B-NP I-NP B-PP B-NP I-NP I-NP I-NP I-NP B-VP B-NP I-NP O B-ADVP B-VP B-PP B-NP I-NP I-NP I-NP I-NP O
+his theory of innate grammar
+focus on
+innate learning capacities or structures
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+30
+Chomsky
+is
+a prominent political dissident
+0
+1
+1
+2
+2
+6
+0.8957128721901888
+Chomsky is a prominent political dissident .
+NNP VBZ DT JJ JJ NN .
+B-NP B-VP B-NP I-NP I-NP I-NP O
+chomsky
+be
+a prominent political dissident
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+30
+Chomsky
+is
+a prominent political dissident
+0
+1
+1
+2
+2
+6
+0.8957128721901888
+Chomsky is a prominent political dissident .
+NNP VBZ DT JJ JJ NN .
+B-NP B-VP B-NP I-NP I-NP I-NP O
+chomsky
+be
+a prominent political dissident
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+31
+His political views
+have changed little since
+his childhood
+0
+3
+3
+7
+7
+9
+0.9511818859845229
+His political views have changed little since his childhood , when he was influenced by the emphasis on political activism that was ingrained in Jewish working - class tradition .
+PRP$ JJ NNS VBP VBN RB IN PRP$ NN , WRB PRP VBD VBN IN DT NN IN JJ NN WDT VBD VBN IN JJ VBG : NN NN .
+B-NP I-NP I-NP B-VP I-VP B-ADVP B-PP B-NP I-NP O B-ADVP B-NP B-VP I-VP B-PP B-NP I-NP B-PP B-NP I-NP B-NP B-VP I-VP B-PP B-NP I-NP O B-VP B-NP O
+his political views
+change since
+his childhood
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+31
+he
+was influenced by
+the emphasis
+11
+12
+12
+15
+15
+17
+0.49126594907653887
+His political views have changed little since his childhood , when he was influenced by the emphasis on political activism that was ingrained in Jewish working - class tradition .
+PRP$ JJ NNS VBP VBN RB IN PRP$ NN , WRB PRP VBD VBN IN DT NN IN JJ NN WDT VBD VBN IN JJ VBG : NN NN .
+B-NP I-NP I-NP B-VP I-VP B-ADVP B-PP B-NP I-NP O B-ADVP B-NP B-VP I-VP B-PP B-NP I-NP B-PP B-NP I-NP B-NP B-VP I-VP B-PP B-NP I-NP O B-VP B-NP O
+he
+influence by
+the emphasis
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+31
+political activism
+was ingrained in
+Jewish working
+18
+20
+21
+24
+24
+26
+0.5384535409331894
+His political views have changed little since his childhood , when he was influenced by the emphasis on political activism that was ingrained in Jewish working - class tradition .
+PRP$ JJ NNS VBP VBN RB IN PRP$ NN , WRB PRP VBD VBN IN DT NN IN JJ NN WDT VBD VBN IN JJ VBG : NN NN .
+B-NP I-NP I-NP B-VP I-VP B-ADVP B-PP B-NP I-NP O B-ADVP B-NP B-VP I-VP B-PP B-NP I-NP B-PP B-NP I-NP B-NP B-VP I-VP B-PP B-NP I-NP O B-VP B-NP O
+political activism
+ingrain in
+jewish working
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+31
+Jewish
+working
+
+24
+25
+25
+26
+26
+26
+0.7644319659740776
+His political views have changed little since his childhood , when he was influenced by the emphasis on political activism that was ingrained in Jewish working - class tradition .
+PRP$ JJ NNS VBP VBN RB IN PRP$ NN , WRB PRP VBD VBN IN DT NN IN JJ NN WDT VBD VBN IN JJ VBG : NN NN .
+B-NP I-NP I-NP B-VP I-VP B-ADVP B-PP B-NP I-NP O B-ADVP B-NP B-VP I-VP B-PP B-NP I-NP B-PP B-NP I-NP B-NP B-VP I-VP B-PP B-NP I-NP O B-VP B-NP O
+jewish
+work
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+31
+His political views
+have changed little since
+his childhood
+0
+3
+3
+7
+7
+9
+0.9511818859845229
+His political views have changed little since his childhood , when he was influenced by the emphasis on political activism that was ingrained in Jewish working - class tradition .
+PRP$ JJ NNS VBP VBN RB IN PRP$ NN , WRB PRP VBD VBN IN DT NN IN JJ NN WDT VBD VBN IN JJ VBG : NN NN .
+B-NP I-NP I-NP B-VP I-VP B-ADVP B-PP B-NP I-NP O B-ADVP B-NP B-VP I-VP B-PP B-NP I-NP B-PP B-NP I-NP B-NP B-VP I-VP B-PP B-NP I-NP O B-VP B-NP O
+his political views
+change since
+his childhood
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+31
+he
+was influenced by
+the emphasis
+11
+12
+12
+15
+15
+17
+0.49126594907653887
+His political views have changed little since his childhood , when he was influenced by the emphasis on political activism that was ingrained in Jewish working - class tradition .
+PRP$ JJ NNS VBP VBN RB IN PRP$ NN , WRB PRP VBD VBN IN DT NN IN JJ NN WDT VBD VBN IN JJ VBG : NN NN .
+B-NP I-NP I-NP B-VP I-VP B-ADVP B-PP B-NP I-NP O B-ADVP B-NP B-VP I-VP B-PP B-NP I-NP B-PP B-NP I-NP B-NP B-VP I-VP B-PP B-NP I-NP O B-VP B-NP O
+he
+influence by
+the emphasis
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+31
+political activism
+was ingrained in
+Jewish working
+18
+20
+21
+24
+24
+26
+0.5384535409331894
+His political views have changed little since his childhood , when he was influenced by the emphasis on political activism that was ingrained in Jewish working - class tradition .
+PRP$ JJ NNS VBP VBN RB IN PRP$ NN , WRB PRP VBD VBN IN DT NN IN JJ NN WDT VBD VBN IN JJ VBG : NN NN .
+B-NP I-NP I-NP B-VP I-VP B-ADVP B-PP B-NP I-NP O B-ADVP B-NP B-VP I-VP B-PP B-NP I-NP B-PP B-NP I-NP B-NP B-VP I-VP B-PP B-NP I-NP O B-VP B-NP O
+political activism
+ingrain in
+jewish working
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+31
+Jewish
+working
+
+24
+25
+25
+26
+26
+26
+0.7644319659740776
+His political views have changed little since his childhood , when he was influenced by the emphasis on political activism that was ingrained in Jewish working - class tradition .
+PRP$ JJ NNS VBP VBN RB IN PRP$ NN , WRB PRP VBD VBN IN DT NN IN JJ NN WDT VBD VBN IN JJ VBG : NN NN .
+B-NP I-NP I-NP B-VP I-VP B-ADVP B-PP B-NP I-NP O B-ADVP B-NP B-VP I-VP B-PP B-NP I-NP B-PP B-NP I-NP B-NP B-VP I-VP B-PP B-NP I-NP O B-VP B-NP O
+jewish
+work
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+32
+He
+usually identifies as
+an anarcho
+0
+1
+1
+4
+4
+6
+0.5847797602075825
+He usually identifies as an anarcho - syndicalist or a libertarian socialist .
+PRP RB VBZ IN DT NN : NN CC DT JJ JJ .
+B-NP B-ADVP B-VP B-PP B-NP I-NP O B-NP O B-NP I-NP I-NP O
+he
+identify as
+an anarcho
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+32
+He
+usually identifies as
+an anarcho
+0
+1
+1
+4
+4
+6
+0.5847797602075825
+He usually identifies as an anarcho - syndicalist or a libertarian socialist .
+PRP RB VBZ IN DT NN : NN CC DT JJ JJ .
+B-NP B-ADVP B-VP B-PP B-NP I-NP O B-NP O B-NP I-NP I-NP O
+he
+identify as
+an anarcho
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+33
+He
+views
+these positions
+0
+1
+1
+2
+2
+4
+0.33970943050955765
+He views these positions not as precise political theories but as ideals that he thinks best meet human needs : liberty , community , and freedom of association .
+PRP VBZ DT NNS RB IN JJ JJ NNS CC IN NNS IN PRP VBZ RB VBP JJ NNS : NN , NN , CC NN IN NN .
+B-NP B-VP B-NP I-NP O B-PP B-NP I-NP I-NP B-PP B-PP B-NP B-SBAR B-NP B-VP O B-VP B-NP I-NP O B-NP O B-NP O O B-NP I-NP I-NP O
+he
+view
+these positions
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+33
+he
+thinks best meet
+human needs
+13
+14
+14
+17
+17
+19
+0.2070634914018697
+He views these positions not as precise political theories but as ideals that he thinks best meet human needs : liberty , community , and freedom of association .
+PRP VBZ DT NNS RB IN JJ JJ NNS CC IN NNS IN PRP VBZ RB VBP JJ NNS : NN , NN , CC NN IN NN .
+B-NP B-VP B-NP I-NP O B-PP B-NP I-NP I-NP B-PP B-PP B-NP B-SBAR B-NP B-VP O B-VP B-NP I-NP O B-NP O B-NP O O B-NP I-NP I-NP O
+he
+think meet
+human needs
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+33
+he
+thinks best meet
+human needs
+13
+14
+14
+17
+17
+19
+0.2070634914018697
+He views these positions not as precise political theories but as ideals that he thinks best meet human needs : liberty , community , and freedom of association .
+PRP VBZ DT NNS RB IN JJ JJ NNS CC IN NNS IN PRP VBZ RB VBP JJ NNS : NN , NN , CC NN IN NN .
+B-NP B-VP B-NP I-NP O B-PP B-NP I-NP I-NP B-PP B-PP B-NP B-SBAR B-NP B-VP O B-VP B-NP I-NP O B-NP O B-NP O O B-NP I-NP I-NP O
+he
+think meet
+human needs
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+34
+Chomsky
+believes that
+politics
+9
+10
+10
+12
+12
+13
+0.1360006366196645
+Unlike some other socialists , such as Marxists , Chomsky believes that politics lies outside the remit of science , but he still roots his ideas about an ideal society in empirical data and empirically justified theories .
+IN DT JJ NNS , JJ IN NNS , NNP VBZ IN NNS VBZ IN DT NN IN NN , CC PRP RB NNS PRP$ NNS IN DT JJ NN IN JJ NNS CC RB JJ NNS .
+B-PP B-NP I-NP I-NP O B-PP I-PP B-NP O B-NP B-VP B-SBAR B-NP B-VP B-PP B-NP I-NP I-NP I-NP O O B-NP B-ADVP B-VP B-NP I-NP B-PP B-NP I-NP I-NP B-PP B-NP I-NP O B-NP I-NP I-NP O
+chomsky
+believe that
+politics
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+34
+politics
+lies outside
+the remit of science
+12
+13
+13
+15
+15
+19
+0.3720753792689475
+Unlike some other socialists , such as Marxists , Chomsky believes that politics lies outside the remit of science , but he still roots his ideas about an ideal society in empirical data and empirically justified theories .
+IN DT JJ NNS , JJ IN NNS , NNP VBZ IN NNS VBZ IN DT NN IN NN , CC PRP RB NNS PRP$ NNS IN DT JJ NN IN JJ NNS CC RB JJ NNS .
+B-PP B-NP I-NP I-NP O B-PP I-PP B-NP O B-NP B-VP B-SBAR B-NP B-VP B-PP B-NP I-NP I-NP I-NP O O B-NP B-ADVP B-VP B-NP I-NP B-PP B-NP I-NP I-NP B-PP B-NP I-NP O B-NP I-NP I-NP O
+politics
+lie outside
+the remit of science
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+34
+Chomsky
+believes that
+politics
+9
+10
+10
+12
+12
+13
+0.1360006366196645
+Unlike some other socialists , such as Marxists , Chomsky believes that politics lies outside the remit of science , but he still roots his ideas about an ideal society in empirical data and empirically justified theories .
+IN DT JJ NNS , JJ IN NNS , NNP VBZ IN NNS VBZ IN DT NN IN NN , CC PRP RB NNS PRP$ NNS IN DT JJ NN IN JJ NNS CC RB JJ NNS .
+B-PP B-NP I-NP I-NP O B-PP I-PP B-NP O B-NP B-VP B-SBAR B-NP B-VP B-PP B-NP I-NP I-NP I-NP O O B-NP B-ADVP B-VP B-NP I-NP B-PP B-NP I-NP I-NP B-PP B-NP I-NP O B-NP I-NP I-NP O
+chomsky
+believe that
+politics
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+34
+politics
+lies outside
+the remit of science
+12
+13
+13
+15
+15
+19
+0.3720753792689475
+Unlike some other socialists , such as Marxists , Chomsky believes that politics lies outside the remit of science , but he still roots his ideas about an ideal society in empirical data and empirically justified theories .
+IN DT JJ NNS , JJ IN NNS , NNP VBZ IN NNS VBZ IN DT NN IN NN , CC PRP RB NNS PRP$ NNS IN DT JJ NN IN JJ NNS CC RB JJ NNS .
+B-PP B-NP I-NP I-NP O B-PP I-PP B-NP O B-NP B-VP B-SBAR B-NP B-VP B-PP B-NP I-NP I-NP I-NP O O B-NP B-ADVP B-VP B-NP I-NP B-PP B-NP I-NP I-NP B-PP B-NP I-NP O B-NP I-NP I-NP O
+politics
+lie outside
+the remit of science
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+35
+political realities
+is systematically distorted
+
+8
+10
+10
+13
+13
+13
+0.7628171065366917
+In Chomsky 's view , the truth about political realities is systematically distorted or suppressed by an elite corporatocracy , which uses corporate media , advertising , and think tanks to promote its own propaganda .
+IN NNP POS NN , DT NN IN JJ NNS VBZ RB VBN CC VBN IN DT NN NN , WDT VBZ JJ NNS , NN , CC VB NNS TO VB PRP$ JJ NN .
+B-PP B-NP I-NP I-NP O B-NP I-NP B-PP B-NP I-NP B-VP I-VP I-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP B-NP I-NP O B-NP O O B-VP B-NP B-VP I-VP B-NP I-NP I-NP O
+political realities
+distort
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+35
+political realities
+suppressed by
+an elite corporatocracy
+8
+10
+14
+16
+16
+19
+0.8725686748978142
+In Chomsky 's view , the truth about political realities is systematically distorted or suppressed by an elite corporatocracy , which uses corporate media , advertising , and think tanks to promote its own propaganda .
+IN NNP POS NN , DT NN IN JJ NNS VBZ RB VBN CC VBN IN DT NN NN , WDT VBZ JJ NNS , NN , CC VB NNS TO VB PRP$ JJ NN .
+B-PP B-NP I-NP I-NP O B-NP I-NP B-PP B-NP I-NP B-VP I-VP I-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP B-NP I-NP O B-NP O O B-VP B-NP B-VP I-VP B-NP I-NP I-NP O
+political realities
+suppress by
+an elite corporatocracy
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+35
+an elite corporatocracy
+uses
+corporate media
+16
+19
+21
+22
+22
+24
+0.5596754402116807
+In Chomsky 's view , the truth about political realities is systematically distorted or suppressed by an elite corporatocracy , which uses corporate media , advertising , and think tanks to promote its own propaganda .
+IN NNP POS NN , DT NN IN JJ NNS VBZ RB VBN CC VBN IN DT NN NN , WDT VBZ JJ NNS , NN , CC VB NNS TO VB PRP$ JJ NN .
+B-PP B-NP I-NP I-NP O B-NP I-NP B-PP B-NP I-NP B-VP I-VP I-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP B-NP I-NP O B-NP O O B-VP B-NP B-VP I-VP B-NP I-NP I-NP O
+an elite corporatocracy
+use
+corporate media
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+35
+corporate media
+think
+tanks
+22
+24
+28
+29
+29
+30
+0.15764557130963008
+In Chomsky 's view , the truth about political realities is systematically distorted or suppressed by an elite corporatocracy , which uses corporate media , advertising , and think tanks to promote its own propaganda .
+IN NNP POS NN , DT NN IN JJ NNS VBZ RB VBN CC VBN IN DT NN NN , WDT VBZ JJ NNS , NN , CC VB NNS TO VB PRP$ JJ NN .
+B-PP B-NP I-NP I-NP O B-NP I-NP B-PP B-NP I-NP B-VP I-VP I-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP B-NP I-NP O B-NP O O B-VP B-NP B-VP I-VP B-NP I-NP I-NP O
+corporate media
+think
+tanks
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+35
+tanks
+promote
+its own propaganda
+29
+30
+31
+32
+32
+35
+0.3543926525038722
+In Chomsky 's view , the truth about political realities is systematically distorted or suppressed by an elite corporatocracy , which uses corporate media , advertising , and think tanks to promote its own propaganda .
+IN NNP POS NN , DT NN IN JJ NNS VBZ RB VBN CC VBN IN DT NN NN , WDT VBZ JJ NNS , NN , CC VB NNS TO VB PRP$ JJ NN .
+B-PP B-NP I-NP I-NP O B-NP I-NP B-PP B-NP I-NP B-VP I-VP I-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP B-NP I-NP O B-NP O O B-VP B-NP B-VP I-VP B-NP I-NP I-NP O
+tanks
+promote
+its own propaganda
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+35
+political realities
+is systematically distorted
+
+8
+10
+10
+13
+13
+13
+0.7628171065366917
+In Chomsky 's view , the truth about political realities is systematically distorted or suppressed by an elite corporatocracy , which uses corporate media , advertising , and think tanks to promote its own propaganda .
+IN NNP POS NN , DT NN IN JJ NNS VBZ RB VBN CC VBN IN DT NN NN , WDT VBZ JJ NNS , NN , CC VB NNS TO VB PRP$ JJ NN .
+B-PP B-NP I-NP I-NP O B-NP I-NP B-PP B-NP I-NP B-VP I-VP I-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP B-NP I-NP O B-NP O O B-VP B-NP B-VP I-VP B-NP I-NP I-NP O
+political realities
+distort
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+35
+political realities
+suppressed by
+an elite corporatocracy
+8
+10
+14
+16
+16
+19
+0.8725686748978142
+In Chomsky 's view , the truth about political realities is systematically distorted or suppressed by an elite corporatocracy , which uses corporate media , advertising , and think tanks to promote its own propaganda .
+IN NNP POS NN , DT NN IN JJ NNS VBZ RB VBN CC VBN IN DT NN NN , WDT VBZ JJ NNS , NN , CC VB NNS TO VB PRP$ JJ NN .
+B-PP B-NP I-NP I-NP O B-NP I-NP B-PP B-NP I-NP B-VP I-VP I-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP B-NP I-NP O B-NP O O B-VP B-NP B-VP I-VP B-NP I-NP I-NP O
+political realities
+suppress by
+an elite corporatocracy
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+35
+an elite corporatocracy
+uses
+corporate media
+16
+19
+21
+22
+22
+24
+0.5596754402116807
+In Chomsky 's view , the truth about political realities is systematically distorted or suppressed by an elite corporatocracy , which uses corporate media , advertising , and think tanks to promote its own propaganda .
+IN NNP POS NN , DT NN IN JJ NNS VBZ RB VBN CC VBN IN DT NN NN , WDT VBZ JJ NNS , NN , CC VB NNS TO VB PRP$ JJ NN .
+B-PP B-NP I-NP I-NP O B-NP I-NP B-PP B-NP I-NP B-VP I-VP I-VP I-VP I-VP B-PP B-NP I-NP I-NP O B-NP B-VP B-NP I-NP O B-NP O O B-VP B-NP B-VP I-VP B-NP I-NP I-NP O
+an elite corporatocracy
+use
+corporate media
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+37
+Chomsky
+believes
+this web of falsehood
+0
+1
+1
+2
+2
+6
+0.23118447907078762
+Chomsky believes this web of falsehood can be broken by " common sense " , critical thinking , and understanding the roles of self - interest and self - deception , and that intellectuals abdicate their moral responsibility to tell the truth about the world in fear of losing prestige and funding .
+NNP VBZ DT NN IN NN MD VB VBN IN `` JJ NN '' , JJ NN , CC VBG DT NNS IN NN : NN CC NN : NN , CC IN NNS VBP PRP$ JJ NN TO VB DT NN IN DT NN IN NN IN VBG NN CC NN .
+B-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP O B-NP I-NP I-NP I-NP I-NP I-NP O O B-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O B-NP O O B-SBAR B-NP B-VP B-NP I-NP I-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP B-PP B-NP B-PP B-VP B-NP I-NP I-NP O
+chomsky
+believe
+this web of falsehood
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+37
+this web of falsehood
+can be broken by
+
+2
+6
+6
+10
+10
+10
+0.5230041974838061
+Chomsky believes this web of falsehood can be broken by " common sense " , critical thinking , and understanding the roles of self - interest and self - deception , and that intellectuals abdicate their moral responsibility to tell the truth about the world in fear of losing prestige and funding .
+NNP VBZ DT NN IN NN MD VB VBN IN `` JJ NN '' , JJ NN , CC VBG DT NNS IN NN : NN CC NN : NN , CC IN NNS VBP PRP$ JJ NN TO VB DT NN IN DT NN IN NN IN VBG NN CC NN .
+B-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP O B-NP I-NP I-NP I-NP I-NP I-NP O O B-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O B-NP O O B-SBAR B-NP B-VP B-NP I-NP I-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP B-PP B-NP B-PP B-VP B-NP I-NP I-NP O
+this web of falsehood
+break by
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+37
+this web of falsehood
+understanding
+the roles of self
+2
+6
+19
+20
+20
+24
+0.3433419923431759
+Chomsky believes this web of falsehood can be broken by " common sense " , critical thinking , and understanding the roles of self - interest and self - deception , and that intellectuals abdicate their moral responsibility to tell the truth about the world in fear of losing prestige and funding .
+NNP VBZ DT NN IN NN MD VB VBN IN `` JJ NN '' , JJ NN , CC VBG DT NNS IN NN : NN CC NN : NN , CC IN NNS VBP PRP$ JJ NN TO VB DT NN IN DT NN IN NN IN VBG NN CC NN .
+B-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP O B-NP I-NP I-NP I-NP I-NP I-NP O O B-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O B-NP O O B-SBAR B-NP B-VP B-NP I-NP I-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP B-PP B-NP B-PP B-VP B-NP I-NP I-NP O
+this web of falsehood
+understand
+the roles of self
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+37
+intellectuals
+abdicate
+their moral responsibility
+33
+34
+34
+35
+35
+38
+0.020350151565115104
+Chomsky believes this web of falsehood can be broken by " common sense " , critical thinking , and understanding the roles of self - interest and self - deception , and that intellectuals abdicate their moral responsibility to tell the truth about the world in fear of losing prestige and funding .
+NNP VBZ DT NN IN NN MD VB VBN IN `` JJ NN '' , JJ NN , CC VBG DT NNS IN NN : NN CC NN : NN , CC IN NNS VBP PRP$ JJ NN TO VB DT NN IN DT NN IN NN IN VBG NN CC NN .
+B-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP O B-NP I-NP I-NP I-NP I-NP I-NP O O B-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O B-NP O O B-SBAR B-NP B-VP B-NP I-NP I-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP B-PP B-NP B-PP B-VP B-NP I-NP I-NP O
+intellectuals
+abdicate
+their moral responsibility
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+37
+their moral responsibility
+tell
+the truth
+35
+38
+39
+40
+40
+42
+0.028229382448486152
+Chomsky believes this web of falsehood can be broken by " common sense " , critical thinking , and understanding the roles of self - interest and self - deception , and that intellectuals abdicate their moral responsibility to tell the truth about the world in fear of losing prestige and funding .
+NNP VBZ DT NN IN NN MD VB VBN IN `` JJ NN '' , JJ NN , CC VBG DT NNS IN NN : NN CC NN : NN , CC IN NNS VBP PRP$ JJ NN TO VB DT NN IN DT NN IN NN IN VBG NN CC NN .
+B-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP O B-NP I-NP I-NP I-NP I-NP I-NP O O B-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O B-NP O O B-SBAR B-NP B-VP B-NP I-NP I-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP B-PP B-NP B-PP B-VP B-NP I-NP I-NP O
+their moral responsibility
+tell
+the truth
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+37
+fear
+losing
+prestige and funding
+46
+47
+48
+49
+49
+52
+0.2040733595138415
+Chomsky believes this web of falsehood can be broken by " common sense " , critical thinking , and understanding the roles of self - interest and self - deception , and that intellectuals abdicate their moral responsibility to tell the truth about the world in fear of losing prestige and funding .
+NNP VBZ DT NN IN NN MD VB VBN IN `` JJ NN '' , JJ NN , CC VBG DT NNS IN NN : NN CC NN : NN , CC IN NNS VBP PRP$ JJ NN TO VB DT NN IN DT NN IN NN IN VBG NN CC NN .
+B-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP O B-NP I-NP I-NP I-NP I-NP I-NP O O B-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O B-NP O O B-SBAR B-NP B-VP B-NP I-NP I-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP B-PP B-NP B-PP B-VP B-NP I-NP I-NP O
+fear
+lose
+prestige and funding
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+37
+this web of falsehood
+can be broken by
+
+2
+6
+6
+10
+10
+10
+0.5230041974838061
+Chomsky believes this web of falsehood can be broken by " common sense " , critical thinking , and understanding the roles of self - interest and self - deception , and that intellectuals abdicate their moral responsibility to tell the truth about the world in fear of losing prestige and funding .
+NNP VBZ DT NN IN NN MD VB VBN IN `` JJ NN '' , JJ NN , CC VBG DT NNS IN NN : NN CC NN : NN , CC IN NNS VBP PRP$ JJ NN TO VB DT NN IN DT NN IN NN IN VBG NN CC NN .
+B-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP O B-NP I-NP I-NP I-NP I-NP I-NP O O B-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O B-NP O O B-SBAR B-NP B-VP B-NP I-NP I-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP B-PP B-NP B-PP B-VP B-NP I-NP I-NP O
+this web of falsehood
+break by
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+37
+this web of falsehood
+understanding the roles of
+self
+2
+6
+19
+23
+23
+24
+0.42040697623813356
+Chomsky believes this web of falsehood can be broken by " common sense " , critical thinking , and understanding the roles of self - interest and self - deception , and that intellectuals abdicate their moral responsibility to tell the truth about the world in fear of losing prestige and funding .
+NNP VBZ DT NN IN NN MD VB VBN IN `` JJ NN '' , JJ NN , CC VBG DT NNS IN NN : NN CC NN : NN , CC IN NNS VBP PRP$ JJ NN TO VB DT NN IN DT NN IN NN IN VBG NN CC NN .
+B-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP O B-NP I-NP I-NP I-NP I-NP I-NP O O B-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O B-NP O O B-SBAR B-NP B-VP B-NP I-NP I-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP B-PP B-NP B-PP B-VP B-NP I-NP I-NP O
+this web of falsehood
+understand role of
+self
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+37
+fear
+losing
+prestige and funding
+46
+47
+48
+49
+49
+52
+0.2040733595138415
+Chomsky believes this web of falsehood can be broken by " common sense " , critical thinking , and understanding the roles of self - interest and self - deception , and that intellectuals abdicate their moral responsibility to tell the truth about the world in fear of losing prestige and funding .
+NNP VBZ DT NN IN NN MD VB VBN IN `` JJ NN '' , JJ NN , CC VBG DT NNS IN NN : NN CC NN : NN , CC IN NNS VBP PRP$ JJ NN TO VB DT NN IN DT NN IN NN IN VBG NN CC NN .
+B-NP B-VP B-NP I-NP I-NP I-NP B-VP I-VP I-VP B-PP O B-NP I-NP I-NP I-NP I-NP I-NP O O B-VP B-NP I-NP I-NP I-NP O B-NP I-NP I-NP O B-NP O O B-SBAR B-NP B-VP B-NP I-NP I-NP B-VP I-VP B-NP I-NP B-PP B-NP I-NP B-PP B-NP B-PP B-VP B-NP I-NP I-NP O
+fear
+lose
+prestige and funding
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+38
+it
+is
+his duty
+9
+10
+10
+11
+11
+13
+0.04691664765037383
+He argues that , as such an intellectual , it is his duty to use his social privilege , resources , and training to aid popular democracy movements in their struggles .
+PRP VBZ IN , IN JJ DT JJ , PRP VBZ PRP$ NN TO VB PRP$ JJ NN , NNS , CC NN TO VB JJ NN NNS IN PRP$ NNS .
+B-NP B-VP B-SBAR O B-PP B-NP I-NP I-NP O B-NP B-VP B-NP I-NP B-VP I-VP B-NP I-NP I-NP O B-NP O O B-NP B-VP I-VP B-NP I-NP I-NP B-PP B-NP I-NP O
+it
+be
+his duty
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+38
+his duty
+use
+his social privilege
+11
+13
+14
+15
+15
+18
+0.8037497472136956
+He argues that , as such an intellectual , it is his duty to use his social privilege , resources , and training to aid popular democracy movements in their struggles .
+PRP VBZ IN , IN JJ DT JJ , PRP VBZ PRP$ NN TO VB PRP$ JJ NN , NNS , CC NN TO VB JJ NN NNS IN PRP$ NNS .
+B-NP B-VP B-SBAR O B-PP B-NP I-NP I-NP O B-NP B-VP B-NP I-NP B-VP I-VP B-NP I-NP I-NP O B-NP O O B-NP B-VP I-VP B-NP I-NP I-NP B-PP B-NP I-NP O
+his duty
+use
+his social privilege
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+38
+training
+aid
+popular democracy movements
+22
+23
+24
+25
+25
+28
+0.37340050745323516
+He argues that , as such an intellectual , it is his duty to use his social privilege , resources , and training to aid popular democracy movements in their struggles .
+PRP VBZ IN , IN JJ DT JJ , PRP VBZ PRP$ NN TO VB PRP$ JJ NN , NNS , CC NN TO VB JJ NN NNS IN PRP$ NNS .
+B-NP B-VP B-SBAR O B-PP B-NP I-NP I-NP O B-NP B-VP B-NP I-NP B-VP I-VP B-NP I-NP I-NP O B-NP O O B-NP B-VP I-VP B-NP I-NP I-NP B-PP B-NP I-NP O
+training
+aid
+popular democracy movements
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+39
+he
+has participated in
+direct action demonstrations
+1
+2
+2
+5
+5
+8
+0.055321202386427466
+Although he has participated in direct action demonstrations —joining protests , being arrested , organizing groups — Chomsky 's primary political outlet is education , i .e . , free public lessons .
+IN PRP VBZ VBN IN JJ NN NNS VBG NNS , VBG VBN , VBG NNS IN NNP POS JJ JJ NN VBZ NN , IN NN . , JJ JJ NNS .
+B-SBAR B-NP B-VP I-VP B-PP B-NP I-NP I-NP B-VP B-NP O B-VP I-VP O B-VP B-NP B-PP B-NP I-NP I-NP I-NP I-NP B-VP B-NP O B-PP B-NP O O B-NP I-NP I-NP O
+he
+participate in
+direct action demonstrations
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+39
+direct action demonstrations
+being arrested
+
+5
+8
+11
+13
+13
+13
+0.5985591025185566
+Although he has participated in direct action demonstrations —joining protests , being arrested , organizing groups — Chomsky 's primary political outlet is education , i .e . , free public lessons .
+IN PRP VBZ VBN IN JJ NN NNS VBG NNS , VBG VBN , VBG NNS IN NNP POS JJ JJ NN VBZ NN , IN NN . , JJ JJ NNS .
+B-SBAR B-NP B-VP I-VP B-PP B-NP I-NP I-NP B-VP B-NP O B-VP I-VP O B-VP B-NP B-PP B-NP I-NP I-NP I-NP I-NP B-VP B-NP O B-PP B-NP O O B-NP I-NP I-NP O
+direct action demonstrations
+arrest
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+39
+protests
+organizing
+groups
+9
+10
+14
+15
+15
+16
+0.401376085646702
+Although he has participated in direct action demonstrations —joining protests , being arrested , organizing groups — Chomsky 's primary political outlet is education , i .e . , free public lessons .
+IN PRP VBZ VBN IN JJ NN NNS VBG NNS , VBG VBN , VBG NNS IN NNP POS JJ JJ NN VBZ NN , IN NN . , JJ JJ NNS .
+B-SBAR B-NP B-VP I-VP B-PP B-NP I-NP I-NP B-VP B-NP O B-VP I-VP O B-VP B-NP B-PP B-NP I-NP I-NP I-NP I-NP B-VP B-NP O B-PP B-NP O O B-NP I-NP I-NP O
+protests
+organize
+groups
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+39
+Chomsky 's primary political outlet
+is
+education
+17
+22
+22
+23
+23
+24
+0.426004675312475
+Although he has participated in direct action demonstrations —joining protests , being arrested , organizing groups — Chomsky 's primary political outlet is education , i .e . , free public lessons .
+IN PRP VBZ VBN IN JJ NN NNS VBG NNS , VBG VBN , VBG NNS IN NNP POS JJ JJ NN VBZ NN , IN NN . , JJ JJ NNS .
+B-SBAR B-NP B-VP I-VP B-PP B-NP I-NP I-NP B-VP B-NP O B-VP I-VP O B-VP B-NP B-PP B-NP I-NP I-NP I-NP I-NP B-VP B-NP O B-PP B-NP O O B-NP I-NP I-NP O
+chomsky 's primary political outlet
+be
+education
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+39
+he
+has participated in
+direct action demonstrations
+1
+2
+2
+5
+5
+8
+0.055321202386427466
+Although he has participated in direct action demonstrations —joining protests , being arrested , organizing groups — Chomsky 's primary political outlet is education , i .e . , free public lessons .
+IN PRP VBZ VBN IN JJ NN NNS VBG NNS , VBG VBN , VBG NNS IN NNP POS JJ JJ NN VBZ NN , IN NN . , JJ JJ NNS .
+B-SBAR B-NP B-VP I-VP B-PP B-NP I-NP I-NP B-VP B-NP O B-VP I-VP O B-VP B-NP B-PP B-NP I-NP I-NP I-NP I-NP B-VP B-NP O B-PP B-NP O O B-NP I-NP I-NP O
+he
+participate in
+direct action demonstrations
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+39
+direct action demonstrations
+being arrested
+
+5
+8
+11
+13
+13
+13
+0.5985591025185566
+Although he has participated in direct action demonstrations —joining protests , being arrested , organizing groups — Chomsky 's primary political outlet is education , i .e . , free public lessons .
+IN PRP VBZ VBN IN JJ NN NNS VBG NNS , VBG VBN , VBG NNS IN NNP POS JJ JJ NN VBZ NN , IN NN . , JJ JJ NNS .
+B-SBAR B-NP B-VP I-VP B-PP B-NP I-NP I-NP B-VP B-NP O B-VP I-VP O B-VP B-NP B-PP B-NP I-NP I-NP I-NP I-NP B-VP B-NP O B-PP B-NP O O B-NP I-NP I-NP O
+direct action demonstrations
+arrest
+
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+39
+Chomsky 's primary political outlet
+is
+education
+17
+22
+22
+23
+23
+24
+0.426004675312475
+Although he has participated in direct action demonstrations —joining protests , being arrested , organizing groups — Chomsky 's primary political outlet is education , i .e . , free public lessons .
+IN PRP VBZ VBN IN JJ NN NNS VBG NNS , VBG VBN , VBG NNS IN NNP POS JJ JJ NN VBZ NN , IN NN . , JJ JJ NNS .
+B-SBAR B-NP B-VP I-VP B-PP B-NP I-NP I-NP B-VP B-NP O B-VP I-VP O B-VP B-NP B-PP B-NP I-NP I-NP I-NP I-NP B-VP B-NP O B-PP B-NP O O B-NP I-NP I-NP O
+chomsky 's primary political outlet
+be
+education
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+40
+He
+is
+a longtime member of the Industrial Workers of the World international union
+0
+1
+1
+2
+2
+14
+0.8277186434351985
+He is a longtime member of the Industrial Workers of the World international union , as was his father .
+PRP VBZ DT JJ NN IN DT NNP NNPS IN DT NNP JJ NN , RB VBD PRP$ NN .
+B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-ADVP B-VP B-NP I-NP O
+he
+be
+a longtime member of the industrial workers of the world international union
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+40
+He
+as was
+his father
+0
+1
+15
+17
+17
+19
+0.6451157586768896
+He is a longtime member of the Industrial Workers of the World international union , as was his father .
+PRP VBZ DT JJ NN IN DT NNP NNPS IN DT NNP JJ NN , RB VBD PRP$ NN .
+B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-ADVP B-VP B-NP I-NP O
+he
+be
+his father
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+40
+He
+is a longtime member of
+the Industrial Workers of the World international union
+0
+1
+1
+6
+6
+14
+0.8695377405898698
+He is a longtime member of the Industrial Workers of the World international union , as was his father .
+PRP VBZ DT JJ NN IN DT NNP NNPS IN DT NNP JJ NN , RB VBD PRP$ NN .
+B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-ADVP B-VP B-NP I-NP O
+he
+be member of
+the industrial workers of the world international union
+/content/p7-li_2023_ie-akgc_project-corpus.txt
+40
+He
+as was
+his father
+0
+1
+15
+17
+17
+19
+0.6451157586768896
+He is a longtime member of the Industrial Workers of the World international union , as was his father .
+PRP VBZ DT JJ NN IN DT NNP NNPS IN DT NNP JJ NN , RB VBD PRP$ NN .
+B-NP B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-ADVP B-VP B-NP I-NP O
+he
+be
+his father
