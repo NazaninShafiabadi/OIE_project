@@ -1,4 +1,5 @@
 import re
+import string
 
 def parse_txt_file(file_path):
     result_dict = {}
@@ -106,7 +107,9 @@ def parse_reverb_file(file_path):
 def parse_tuple(input_string):
 
     elements = input_string.split("<TAB>")
-    elements = [elem.strip() for elem in elements if elem]
+    # elements = [elem.strip().split() for elem in elements if elem]
+    elements = [[token for token in elem if token not in string.punctuation] 
+                for elem in [elem.strip().split() for elem in elements if elem]]
 
     return {
         'arg1': elements[0] if len(elements) > 0 else None,
